@@ -1,0 +1,2390 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_About Me Hub",
+      "type": "file",
+      "file": "About Me Hub.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Adaptive Resilience",
+      "type": "file",
+      "file": "Adaptive Resilience.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Audience Empathy and Connection",
+      "type": "file",
+      "file": "Audience Empathy and Connection.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_CV and Timeline",
+      "type": "file",
+      "file": "CV and Timeline.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Creative Expression",
+      "type": "file",
+      "file": "Creative Expression.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Creative-Rational Integration",
+      "type": "file",
+      "file": "Creative-Rational Integration.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Cross-Disciplinary Synthesis",
+      "type": "file",
+      "file": "Cross-Disciplinary Synthesis.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Data Science and Python",
+      "type": "file",
+      "file": "Data Science and Python.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Explanatory Writing",
+      "type": "file",
+      "file": "Explanatory Writing.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Finance and Market Literacy",
+      "type": "file",
+      "file": "Finance and Market Literacy.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Frontier Scientific Research",
+      "type": "file",
+      "file": "Frontier Scientific Research.md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Gap 1 Teaching as Leadership",
+      "type": "file",
+      "file": "Gap 1 Teaching as Leadership.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Gap 2 Data Science Visibility",
+      "type": "file",
+      "file": "Gap 2 Data Science Visibility.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Gap 3 Venture Literacy",
+      "type": "file",
+      "file": "Gap 3 Venture Literacy.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_IKI-AI Synthesis",
+      "type": "file",
+      "file": "IKI-AI Synthesis.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Intellectual Curiosity and Exploration",
+      "type": "file",
+      "file": "Intellectual Curiosity and Exploration.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_LinkedIn Content Strategy",
+      "type": "file",
+      "file": "LinkedIn Content Strategy.md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Loop 1 Science Communication Audience",
+      "type": "file",
+      "file": "Loop 1 Science Communication Audience.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Loop 2 Teaching Leadership Trust",
+      "type": "file",
+      "file": "Loop 2 Teaching Leadership Trust.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "type": "file",
+      "file": "Loop 3 Systems Thinking Cross-Domain Synthesis.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Multilingual Communication",
+      "type": "file",
+      "file": "Multilingual Communication.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Portfolio Narrative",
+      "type": "file",
+      "file": "Portfolio Narrative.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Preclinical Experimental Design",
+      "type": "file",
+      "file": "Preclinical Experimental Design.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Relational Generosity",
+      "type": "file",
+      "file": "Relational Generosity.md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Science Communication and Translation",
+      "type": "file",
+      "file": "Science Communication and Translation.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Scientific Writing and Literature Synthesis",
+      "type": "file",
+      "file": "Scientific Writing and Literature Synthesis.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Self-Directed Excellence",
+      "type": "file",
+      "file": "Self-Directed Excellence.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Stakeholder Communication",
+      "type": "file",
+      "file": "Stakeholder Communication.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Teaching Temperament",
+      "type": "file",
+      "file": "Teaching Temperament.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Technical Scientific Breadth",
+      "type": "file",
+      "file": "Technical Scientific Breadth.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Translational Thinking",
+      "type": "file",
+      "file": "Translational Thinking.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Visual Science Communication",
+      "type": "file",
+      "file": "Visual Science Communication.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 1400,
+      "y": 0,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_LysoIP",
+      "type": "file",
+      "file": "LysoIP.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NanoCTSD",
+      "type": "file",
+      "file": "NanoCTSD.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NanoGLA",
+      "type": "file",
+      "file": "NanoGLA.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Thesis Hub",
+      "type": "file",
+      "file": "Thesis Hub.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Transdifferentiation",
+      "type": "file",
+      "file": "Transdifferentiation.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 2140,
+      "y": 0,
+      "width": 2200,
+      "height": 1020,
+      "color": "3"
+    },
+    {
+      "id": "n_2026 in review: funding and regulation in lysosomal disease",
+      "type": "file",
+      "file": "2026 in review funding and regulation in lysosomal disease.md",
+      "x": 2160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "type": "file",
+      "file": "A Fabry family's story starts with one diagnosis and a genetic test for everyone else.md",
+      "x": 2360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_A Gaucher diagnosis often takes years. Here's why that matters.",
+      "type": "file",
+      "file": "A Gaucher diagnosis often takes years. Here's why that matters..md",
+      "x": 2560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_A year of writing about science in public: what actually changed",
+      "type": "file",
+      "file": "A year of writing about science in public what actually changed.md",
+      "x": 2760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Alpha-synuclein doesn't aggregate in a vacuum \u2014 the lysosome's role",
+      "type": "file",
+      "file": "Alpha-synuclein doesn't aggregate in a vacuum \u2014 the lysosome's role.md",
+      "x": 2960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Azafaros",
+      "type": "file",
+      "file": "Azafaros.md",
+      "x": 3160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off",
+      "type": "file",
+      "file": "Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off.md",
+      "x": 3360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Beyond our pipeline: why brain-penetrant enzyme therapy is having a moment",
+      "type": "file",
+      "file": "Beyond our pipeline why brain-penetrant enzyme therapy is having a moment.md",
+      "x": 3560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "type": "file",
+      "file": "CTSD again what Parkinson's, NCL10, and Alzheimer's research keep circling back to.md",
+      "x": 3760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "type": "file",
+      "file": "CTSD the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on.md",
+      "x": 3960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Competitor watch: what Azafaros' Phase 3 timeline tells the field",
+      "type": "file",
+      "file": "Competitor watch what Azafaros' Phase 3 timeline tells the field.md",
+      "x": 2160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Content Pillars",
+      "type": "file",
+      "file": "Content Pillars.md",
+      "x": 2360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Denali Therapeutics",
+      "type": "file",
+      "file": "Denali Therapeutics.md",
+      "x": 2560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Eddie Pradas Gracia",
+      "type": "file",
+      "file": "Eddie Pradas Gracia.md",
+      "x": 2760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Enzyme replacement therapy at 30: what's changed, what hasn't",
+      "type": "file",
+      "file": "Enzyme replacement therapy at 30 what's changed, what hasn't.md",
+      "x": 2960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Enzyme replacement therapy works. That's exactly why it needs improving.",
+      "type": "file",
+      "file": "Enzyme replacement therapy works. That's exactly why it needs improving..md",
+      "x": 3160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Fabry disease and the lipid that shouldn't be there",
+      "type": "file",
+      "file": "Fabry disease and the lipid that shouldn't be there.md",
+      "x": 3360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Fabry disease hides behind decades of unexplained symptoms",
+      "type": "file",
+      "file": "Fabry disease hides behind decades of unexplained symptoms.md",
+      "x": 3560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "type": "file",
+      "file": "Fabry disease why ERT alone doesn't stop the clock on heart and kidney damage.md",
+      "x": 3760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Fabry, Gaucher, NCL10: three diseases, one platform logic",
+      "type": "file",
+      "file": "Fabry, Gaucher, NCL10 three diseases, one platform logic.md",
+      "x": 3960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Founding a company while finishing a PhD taught me to hold two clocks at once",
+      "type": "file",
+      "file": "Founding a company while finishing a PhD taught me to hold two clocks at once.md",
+      "x": 2160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_GBA CTSD Alpha-Synuclein Axis in PD",
+      "type": "file",
+      "file": "GBA CTSD Alpha-Synuclein Axis in PD.md",
+      "x": 2360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_GBA in Numbers Repeat Version",
+      "type": "file",
+      "file": "GBA in Numbers Repeat Version.md",
+      "x": 2560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_GBA in numbers: what the data actually shows about Parkinson's risk",
+      "type": "file",
+      "file": "GBA in numbers what the data actually shows about Parkinson's risk.md",
+      "x": 2760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Gaucher disease: what happens when one enzyme goes missing",
+      "type": "file",
+      "file": "Gaucher disease what happens when one enzyme goes missing.md",
+      "x": 2960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Getting the enzyme where it needs to go",
+      "type": "file",
+      "file": "Getting the enzyme where it needs to go.md",
+      "x": 3160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_How orphan drug incentives quietly decide where rare disease R&D goes",
+      "type": "file",
+      "file": "How orphan drug incentives quietly decide where rare disease R&D goes.md",
+      "x": 3360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_How we test whether a conjugate is actually more stable",
+      "type": "file",
+      "file": "How we test whether a conjugate is actually more stable.md",
+      "x": 3560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Hunter syndrome just got its first brain-penetrant approval. What that validates for the field.",
+      "type": "file",
+      "file": "Hunter syndrome just got its first brain-penetrant approval. What that validates for the field..md",
+      "x": 3760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Huntington's disease is not on our pipeline. Here's why we're still watching it closely.",
+      "type": "file",
+      "file": "Huntington's disease is not on our pipeline. Here's why we're still watching it closely..md",
+      "x": 3960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Inside Our Monthly Meetings",
+      "type": "file",
+      "file": "Inside Our Monthly Meetings.md",
+      "x": 2160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Jornada Malalties Minoritaries CA",
+      "type": "file",
+      "file": "Jornada Malalties Minoritaries CA.md",
+      "x": 2360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Jornada Malalties Minoritaries and Rare Disease Day EN",
+      "type": "file",
+      "file": "Jornada Malalties Minoritaries and Rare Disease Day EN.md",
+      "x": 2560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Julia Lorenzo Rivera",
+      "type": "file",
+      "file": "Julia Lorenzo Rivera.md",
+      "x": 2760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_LinkedIn Voice Style Guide",
+      "type": "file",
+      "file": "LinkedIn Voice Style Guide.md",
+      "x": 2960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_MWC 2026 and US",
+      "type": "file",
+      "file": "MWC 2026 and US.md",
+      "x": 3160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Mercedes Arrue",
+      "type": "file",
+      "file": "Mercedes Arrue.md",
+      "x": 3360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Mid-year pipeline update: where the three programmes stand",
+      "type": "file",
+      "file": "Mid-year pipeline update where the three programmes stand.md",
+      "x": 3560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "type": "file",
+      "file": "NCL10 is so rare most doctors will never see a case. That's exactly the problem..md",
+      "x": 3760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NanoERT Hub",
+      "type": "file",
+      "file": "NanoERT Hub.md",
+      "x": 3960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NanoERT LinkedIn Calendar 2026-2027",
+      "type": "file",
+      "file": "NanoERT LinkedIn Calendar 2026-2027.md",
+      "x": 2160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_NanoERT Reaches La Vanguardia",
+      "type": "file",
+      "file": "NanoERT Reaches La Vanguardia.md",
+      "x": 2360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Nerea Ruiz",
+      "type": "file",
+      "file": "Nerea Ruiz.md",
+      "x": 2560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_One mechanism, many diseases: substrate accumulation across the lysosomal storage disorders",
+      "type": "file",
+      "file": "One mechanism, many diseases substrate accumulation across the lysosomal storage disorders.md",
+      "x": 2760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_One year of building in public: the case for transparent preclinical communication",
+      "type": "file",
+      "file": "One year of building in public the case for transparent preclinical communication.md",
+      "x": 2960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_One year of content, one platform, one mission: what's next",
+      "type": "file",
+      "file": "One year of content, one platform, one mission what's next.md",
+      "x": 3160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Pablo Castillo",
+      "type": "file",
+      "file": "Pablo Castillo.md",
+      "x": 3360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Parkinsons Day Science Means Nothing Without People",
+      "type": "file",
+      "file": "Parkinsons Day Science Means Nothing Without People.md",
+      "x": 3560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Pau Sarle",
+      "type": "file",
+      "file": "Pau Sarle.md",
+      "x": 3760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_PhD Celebration Eddie Pradas Gracia",
+      "type": "file",
+      "file": "PhD Celebration Eddie Pradas Gracia.md",
+      "x": 3960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Pipeline Alpha-Gal A",
+      "type": "file",
+      "file": "Pipeline Alpha-Gal A.md",
+      "x": 2160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Pipeline CTSD",
+      "type": "file",
+      "file": "Pipeline CTSD.md",
+      "x": 2360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Pipeline GBA",
+      "type": "file",
+      "file": "Pipeline GBA.md",
+      "x": 2560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Platform Mechanism",
+      "type": "file",
+      "file": "Platform Mechanism.md",
+      "x": 2760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Platform Mechanism Historical Superseded",
+      "type": "file",
+      "file": "Platform Mechanism Historical Superseded.md",
+      "x": 2960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Prevail Therapeutics",
+      "type": "file",
+      "file": "Prevail Therapeutics.md",
+      "x": 3160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Reducing immune recognition without hiding the enzyme's active site",
+      "type": "file",
+      "file": "Reducing immune recognition without hiding the enzyme's active site.md",
+      "x": 3360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.",
+      "type": "file",
+      "file": "Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason..md",
+      "x": 3560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Sarepta Therapeutics",
+      "type": "file",
+      "file": "Sarepta Therapeutics.md",
+      "x": 3760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Sebastian Tanco",
+      "type": "file",
+      "file": "Sebastian Tanco.md",
+      "x": 3960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Tackling LSDs Current Treatments and Road Ahead",
+      "type": "file",
+      "file": "Tackling LSDs Current Treatments and Road Ahead.md",
+      "x": 2160,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "type": "file",
+      "file": "The GBA-CTSD-alpha-synuclein axis, one year later.md",
+      "x": 2360,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_The invisible weight of caregiving in rare disease",
+      "type": "file",
+      "file": "The invisible weight of caregiving in rare disease.md",
+      "x": 2560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_The three problems every IV enzyme therapy has to solve",
+      "type": "file",
+      "file": "The three problems every IV enzyme therapy has to solve.md",
+      "x": 2760,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Three months into this content chapter: what I've learned about writing science in public",
+      "type": "file",
+      "file": "Three months into this content chapter what I've learned about writing science in public.md",
+      "x": 2960,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Translating complex biology for people who've never heard of a lysosome",
+      "type": "file",
+      "file": "Translating complex biology for people who've never heard of a lysosome.md",
+      "x": 3160,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Understanding Gaucher Disease",
+      "type": "file",
+      "file": "Understanding Gaucher Disease.md",
+      "x": 3360,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Understanding LSDs Why They Matter",
+      "type": "file",
+      "file": "Understanding LSDs Why They Matter.md",
+      "x": 3560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_WORLD Symposium 2027: what we're watching",
+      "type": "file",
+      "file": "WORLD Symposium 2027 what we're watching.md",
+      "x": 3760,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_WORLD Symposium Pau Preview",
+      "type": "file",
+      "file": "WORLD Symposium Pau Preview.md",
+      "x": 3960,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_WORLD Symposium Pau Results",
+      "type": "file",
+      "file": "WORLD Symposium Pau Results.md",
+      "x": 2160,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Were We Wrong With Parkinsons Disease",
+      "type": "file",
+      "file": "Were We Wrong With Parkinsons Disease.md",
+      "x": 2360,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What Alzheimer's research is teaching us about our own target enzyme",
+      "type": "file",
+      "file": "What Alzheimer's research is teaching us about our own target enzyme.md",
+      "x": 2560,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT",
+      "type": "file",
+      "file": "What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT.md",
+      "x": 2760,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What Rare Disease Day 2027 told us the community still needs",
+      "type": "file",
+      "file": "What Rare Disease Day 2027 told us the community still needs.md",
+      "x": 2960,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What a biopolymer conjugate actually does to an enzyme",
+      "type": "file",
+      "file": "What a biopolymer conjugate actually does to an enzyme.md",
+      "x": 3160,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What a positive Huntington's gene therapy readout means beyond Huntington's",
+      "type": "file",
+      "file": "What a positive Huntington's gene therapy readout means beyond Huntington's.md",
+      "x": 3360,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What a week at WORLD Symposium does to how you think about your own research",
+      "type": "file",
+      "file": "What a week at WORLD Symposium does to how you think about your own research.md",
+      "x": 3560,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What happens inside a neuron when GCase stops working",
+      "type": "file",
+      "file": "What happens inside a neuron when GCase stops working.md",
+      "x": 3760,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What no one tells you about running a spin-off and a PhD at the same time",
+      "type": "file",
+      "file": "What no one tells you about running a spin-off and a PhD at the same time.md",
+      "x": 3960,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What patients have taught us that papers can't",
+      "type": "file",
+      "file": "What patients have taught us that papers can't.md",
+      "x": 2160,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_What platform biotechs get that single-asset companies don't",
+      "type": "file",
+      "file": "What platform biotechs get that single-asset companies don't.md",
+      "x": 2360,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_When a Parkinson's diagnosis comes with a GBA mutation",
+      "type": "file",
+      "file": "When a Parkinson's diagnosis comes with a GBA mutation.md",
+      "x": 2560,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Why 'orphan drug' is not a consolation prize",
+      "type": "file",
+      "file": "Why 'orphan drug' is not a consolation prize.md",
+      "x": 2760,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Why I chose to spend a PhD on diseases that affect one in fifty thousand",
+      "type": "file",
+      "file": "Why I chose to spend a PhD on diseases that affect one in fifty thousand.md",
+      "x": 2960,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Why immune recognition is the quiet killer of enzyme therapies",
+      "type": "file",
+      "file": "Why immune recognition is the quiet killer of enzyme therapies.md",
+      "x": 3160,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Why rare disease patient registries matter more than any single trial",
+      "type": "file",
+      "file": "Why rare disease patient registries matter more than any single trial.md",
+      "x": 3360,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 0,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_Viral Content Hub",
+      "type": "file",
+      "file": "Viral Content Hub.md",
+      "x": 20,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Community 9",
+      "x": 1400,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_Pol Rodriguez Carreras Knowledge Graph",
+      "type": "file",
+      "file": "Pol Rodriguez Carreras Knowledge Graph.md",
+      "x": 1420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_Pol Rodriguez Carreras Knowledge Graph_About Me Hub",
+      "fromNode": "n_Pol Rodriguez Carreras Knowledge Graph",
+      "toNode": "n_About Me Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pol Rodriguez Carreras Knowledge Graph_Thesis Hub",
+      "fromNode": "n_Pol Rodriguez Carreras Knowledge Graph",
+      "toNode": "n_Thesis Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pol Rodriguez Carreras Knowledge Graph_NanoERT Hub",
+      "fromNode": "n_Pol Rodriguez Carreras Knowledge Graph",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pol Rodriguez Carreras Knowledge Graph_Viral Content Hub",
+      "fromNode": "n_Pol Rodriguez Carreras Knowledge Graph",
+      "toNode": "n_Viral Content Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_About Me Hub",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_About Me Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_NanoERT Hub",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_CV and Timeline",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_CV and Timeline",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Portfolio Narrative",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Portfolio Narrative",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Scientific Writing and Literature Synthesis",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Scientific Writing and Literature Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Multilingual Communication",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Multilingual Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Data Science and Python",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Data Science and Python",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Preclinical Experimental Design",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Preclinical Experimental Design",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Finance and Market Literacy",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Finance and Market Literacy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_LinkedIn Content Strategy",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_LinkedIn Content Strategy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Explanatory Writing",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Explanatory Writing",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Relational Generosity",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Relational Generosity",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Creative-Rational Integration",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Creative-Rational Integration",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Teaching Temperament",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Teaching Temperament",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Cross-Disciplinary Synthesis",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Cross-Disciplinary Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Audience Empathy and Connection",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Audience Empathy and Connection",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Creative Expression",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Creative Expression",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Science Communication and Translation",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Science Communication and Translation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Frontier Scientific Research",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Frontier Scientific Research",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Intellectual Curiosity and Exploration",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Intellectual Curiosity and Exploration",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Stakeholder Communication",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Stakeholder Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Adaptive Resilience",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Adaptive Resilience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Translational Thinking",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Translational Thinking",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Technical Scientific Breadth",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Technical Scientific Breadth",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Visual Science Communication",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Visual Science Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_IKI-AI Synthesis_Self-Directed Excellence",
+      "fromNode": "n_IKI-AI Synthesis",
+      "toNode": "n_Self-Directed Excellence",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Portfolio Narrative_Platform Mechanism",
+      "fromNode": "n_Portfolio Narrative",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Portfolio Narrative_About Me Hub",
+      "fromNode": "n_Portfolio Narrative",
+      "toNode": "n_About Me Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Portfolio Narrative_Translational Thinking",
+      "fromNode": "n_Portfolio Narrative",
+      "toNode": "n_Translational Thinking",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Portfolio Narrative_Thesis Hub",
+      "fromNode": "n_Portfolio Narrative",
+      "toNode": "n_Thesis Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Portfolio Narrative_NanoERT Hub",
+      "fromNode": "n_Portfolio Narrative",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Frontier Scientific Research",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Frontier Scientific Research",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Science Communication and Translation",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Science Communication and Translation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Creative Expression",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Creative Expression",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Intellectual Curiosity and Exploration",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Intellectual Curiosity and Exploration",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Audience Empathy and Connection",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Audience Empathy and Connection",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Explanatory Writing",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Explanatory Writing",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Teaching Temperament",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Teaching Temperament",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Cross-Disciplinary Synthesis",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Cross-Disciplinary Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Relational Generosity",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Relational Generosity",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Creative-Rational Integration",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Creative-Rational Integration",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Translational Thinking",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Translational Thinking",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Technical Scientific Breadth",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Technical Scientific Breadth",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Visual Science Communication",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Visual Science Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Adaptive Resilience",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Adaptive Resilience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Stakeholder Communication",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Stakeholder Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Self-Directed Excellence",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Self-Directed Excellence",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Data Science and Python",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Data Science and Python",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_LinkedIn Content Strategy",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_LinkedIn Content Strategy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Scientific Writing and Literature Synthesis",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Scientific Writing and Literature Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Preclinical Experimental Design",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Preclinical Experimental Design",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Multilingual Communication",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Multilingual Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Finance and Market Literacy",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Finance and Market Literacy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Loop 1 Science Communication Audience",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Loop 1 Science Communication Audience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Loop 2 Teaching Leadership Trust",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Loop 2 Teaching Leadership Trust",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Gap 1 Teaching as Leadership",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Gap 1 Teaching as Leadership",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Gap 2 Data Science Visibility",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Gap 2 Data Science Visibility",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Gap 3 Venture Literacy",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Gap 3 Venture Literacy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_CV and Timeline",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_CV and Timeline",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Thesis Hub",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Thesis Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_NanoERT Hub",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_About Me Hub_Viral Content Hub",
+      "fromNode": "n_About Me Hub",
+      "toNode": "n_Viral Content Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_CV and Timeline_NanoERT Hub",
+      "fromNode": "n_CV and Timeline",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_CV and Timeline_Thesis Hub",
+      "fromNode": "n_CV and Timeline",
+      "toNode": "n_Thesis Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Data Science and Python_Gap 2 Data Science Visibility",
+      "fromNode": "n_Data Science and Python",
+      "toNode": "n_Gap 2 Data Science Visibility",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Preclinical Experimental Design_Transdifferentiation",
+      "fromNode": "n_Preclinical Experimental Design",
+      "toNode": "n_Transdifferentiation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Preclinical Experimental Design_LysoIP",
+      "fromNode": "n_Preclinical Experimental Design",
+      "toNode": "n_LysoIP",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Finance and Market Literacy_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "fromNode": "n_Finance and Market Literacy",
+      "toNode": "n_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Finance and Market Literacy_Gap 3 Venture Literacy",
+      "fromNode": "n_Finance and Market Literacy",
+      "toNode": "n_Gap 3 Venture Literacy",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_LinkedIn Content Strategy_LinkedIn Voice Style Guide",
+      "fromNode": "n_LinkedIn Content Strategy",
+      "toNode": "n_LinkedIn Voice Style Guide",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Explanatory Writing_LinkedIn Voice Style Guide",
+      "fromNode": "n_Explanatory Writing",
+      "toNode": "n_LinkedIn Voice Style Guide",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Relational Generosity_Loop 2 Teaching Leadership Trust",
+      "fromNode": "n_Relational Generosity",
+      "toNode": "n_Loop 2 Teaching Leadership Trust",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Creative-Rational Integration_Loop 1 Science Communication Audience",
+      "fromNode": "n_Creative-Rational Integration",
+      "toNode": "n_Loop 1 Science Communication Audience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Teaching Temperament_Loop 2 Teaching Leadership Trust",
+      "fromNode": "n_Teaching Temperament",
+      "toNode": "n_Loop 2 Teaching Leadership Trust",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Teaching Temperament_Gap 1 Teaching as Leadership",
+      "fromNode": "n_Teaching Temperament",
+      "toNode": "n_Gap 1 Teaching as Leadership",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Cross-Disciplinary Synthesis_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "fromNode": "n_Cross-Disciplinary Synthesis",
+      "toNode": "n_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Audience Empathy and Connection_Loop 1 Science Communication Audience",
+      "fromNode": "n_Audience Empathy and Connection",
+      "toNode": "n_Loop 1 Science Communication Audience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Science Communication and Translation_Loop 1 Science Communication Audience",
+      "fromNode": "n_Science Communication and Translation",
+      "toNode": "n_Loop 1 Science Communication Audience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Frontier Scientific Research_Loop 1 Science Communication Audience",
+      "fromNode": "n_Frontier Scientific Research",
+      "toNode": "n_Loop 1 Science Communication Audience",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Intellectual Curiosity and Exploration_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "fromNode": "n_Intellectual Curiosity and Exploration",
+      "toNode": "n_Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Loop 2 Teaching Leadership Trust_Stakeholder Communication",
+      "fromNode": "n_Loop 2 Teaching Leadership Trust",
+      "toNode": "n_Stakeholder Communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Translational Thinking_Transdifferentiation",
+      "fromNode": "n_Translational Thinking",
+      "toNode": "n_Transdifferentiation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Translational Thinking_LysoIP",
+      "fromNode": "n_Translational Thinking",
+      "toNode": "n_LysoIP",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_NanoERT Hub",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_Platform Mechanism",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_A Gaucher diagnosis often takes years. Here's why that matters.",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_A Gaucher diagnosis often takes years. Here's why that matters.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_Gaucher disease: what happens when one enzyme goes missing",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_Gaucher disease: what happens when one enzyme goes missing",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_When a Parkinson's diagnosis comes with a GBA mutation",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_When a Parkinson's diagnosis comes with a GBA mutation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_GBA in numbers: what the data actually shows about Parkinson's risk",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_GBA in numbers: what the data actually shows about Parkinson's risk",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_Parkinsons Day Science Means Nothing Without People",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_Parkinsons Day Science Means Nothing Without People",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_Were We Wrong With Parkinsons Disease",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_Were We Wrong With Parkinsons Disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_WORLD Symposium Pau Results",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_WORLD Symposium Pau Results",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_GBA CTSD Alpha-Synuclein Axis in PD",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_GBA CTSD Alpha-Synuclein Axis in PD",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_Understanding Gaucher Disease",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_Understanding Gaucher Disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_WORLD Symposium Pau Preview",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_WORLD Symposium Pau Preview",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline GBA_GBA in Numbers Repeat Version",
+      "fromNode": "n_Pipeline GBA",
+      "toNode": "n_GBA in Numbers Repeat Version",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Platform Mechanism Historical Superseded_NanoERT LinkedIn Calendar 2026-2027",
+      "fromNode": "n_Platform Mechanism Historical Superseded",
+      "toNode": "n_NanoERT LinkedIn Calendar 2026-2027",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Platform Mechanism Historical Superseded_Platform Mechanism",
+      "fromNode": "n_Platform Mechanism Historical Superseded",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Platform Mechanism Historical Superseded_NanoERT Hub",
+      "fromNode": "n_Platform Mechanism Historical Superseded",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_NanoERT Hub",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_Platform Mechanism",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline CTSD_NanoCTSD",
+      "fromNode": "n_Pipeline CTSD",
+      "toNode": "n_NanoCTSD",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_NanoERT Hub",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_Platform Mechanism",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_Fabry disease hides behind decades of unexplained symptoms",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_Fabry disease hides behind decades of unexplained symptoms",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_Fabry disease and the lipid that shouldn't be there",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_Fabry disease and the lipid that shouldn't be there",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Pipeline Alpha-Gal A_NanoGLA",
+      "fromNode": "n_Pipeline Alpha-Gal A",
+      "toNode": "n_NanoGLA",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_NanoERT Hub",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_NanoERT Hub",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_LinkedIn Voice Style Guide",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_LinkedIn Voice Style Guide",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_The GBA-CTSD-alpha-synuclein axis, one year later",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What a biopolymer conjugate actually does to an enzyme",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What a biopolymer conjugate actually does to an enzyme",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Three months into this content chapter: what I've learned about writing science in public",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Three months into this content chapter: what I've learned about writing science in public",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_How orphan drug incentives quietly decide where rare disease R&D goes",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_How orphan drug incentives quietly decide where rare disease R&D goes",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Mid-year pipeline update: where the three programmes stand",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Mid-year pipeline update: where the three programmes stand",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_WORLD Symposium 2027: what we're watching",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_WORLD Symposium 2027: what we're watching",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Enzyme replacement therapy works. That's exactly why it needs improving.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Enzyme replacement therapy works. That's exactly why it needs improving.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Fabry disease hides behind decades of unexplained symptoms",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Fabry disease hides behind decades of unexplained symptoms",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_A year of writing about science in public: what actually changed",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_A year of writing about science in public: what actually changed",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Why I chose to spend a PhD on diseases that affect one in fifty thousand",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Why I chose to spend a PhD on diseases that affect one in fifty thousand",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_A Gaucher diagnosis often takes years. Here's why that matters.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_A Gaucher diagnosis often takes years. Here's why that matters.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What Rare Disease Day 2027 told us the community still needs",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What Rare Disease Day 2027 told us the community still needs",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Competitor watch: what Azafaros' Phase 3 timeline tells the field",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Competitor watch: what Azafaros' Phase 3 timeline tells the field",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Fabry, Gaucher, NCL10: three diseases, one platform logic",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Fabry, Gaucher, NCL10: three diseases, one platform logic",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_One mechanism, many diseases: substrate accumulation across the lysosomal storage disorders",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_One mechanism, many diseases: substrate accumulation across the lysosomal storage disorders",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Why immune recognition is the quiet killer of enzyme therapies",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Why immune recognition is the quiet killer of enzyme therapies",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_One year of content, one platform, one mission: what's next",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_One year of content, one platform, one mission: what's next",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_NanoERT LinkedIn Calendar 2026-2027",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_NanoERT LinkedIn Calendar 2026-2027",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Hunter syndrome just got its first brain-penetrant approval. What that validates for the field.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Hunter syndrome just got its first brain-penetrant approval. What that validates for the field.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What a week at WORLD Symposium does to how you think about your own research",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What a week at WORLD Symposium does to how you think about your own research",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What a positive Huntington's gene therapy readout means beyond Huntington's",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What a positive Huntington's gene therapy readout means beyond Huntington's",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_One year of building in public: the case for transparent preclinical communication",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_One year of building in public: the case for transparent preclinical communication",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_The invisible weight of caregiving in rare disease",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_The invisible weight of caregiving in rare disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What Alzheimer's research is teaching us about our own target enzyme",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What Alzheimer's research is teaching us about our own target enzyme",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Reducing immune recognition without hiding the enzyme's active site",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Reducing immune recognition without hiding the enzyme's active site",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Enzyme replacement therapy at 30: what's changed, what hasn't",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Enzyme replacement therapy at 30: what's changed, what hasn't",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Alpha-synuclein doesn't aggregate in a vacuum \u2014 the lysosome's role",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Alpha-synuclein doesn't aggregate in a vacuum \u2014 the lysosome's role",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_2026 in review: funding and regulation in lysosomal disease",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_2026 in review: funding and regulation in lysosomal disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What happens inside a neuron when GCase stops working",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What happens inside a neuron when GCase stops working",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_How we test whether a conjugate is actually more stable",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_How we test whether a conjugate is actually more stable",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What patients have taught us that papers can't",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What patients have taught us that papers can't",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Beyond our pipeline: why brain-penetrant enzyme therapy is having a moment",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Beyond our pipeline: why brain-penetrant enzyme therapy is having a moment",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Translating complex biology for people who've never heard of a lysosome",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Translating complex biology for people who've never heard of a lysosome",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What platform biotechs get that single-asset companies don't",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What platform biotechs get that single-asset companies don't",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_The three problems every IV enzyme therapy has to solve",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_The three problems every IV enzyme therapy has to solve",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Gaucher disease: what happens when one enzyme goes missing",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Gaucher disease: what happens when one enzyme goes missing",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_When a Parkinson's diagnosis comes with a GBA mutation",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_When a Parkinson's diagnosis comes with a GBA mutation",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Why 'orphan drug' is not a consolation prize",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Why 'orphan drug' is not a consolation prize",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Huntington's disease is not on our pipeline. Here's why we're still watching it closely.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Huntington's disease is not on our pipeline. Here's why we're still watching it closely.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Why rare disease patient registries matter more than any single trial",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Why rare disease patient registries matter more than any single trial",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_GBA in numbers: what the data actually shows about Parkinson's risk",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_GBA in numbers: what the data actually shows about Parkinson's risk",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_What no one tells you about running a spin-off and a PhD at the same time",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_What no one tells you about running a spin-off and a PhD at the same time",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Getting the enzyme where it needs to go",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Getting the enzyme where it needs to go",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Founding a company while finishing a PhD taught me to hold two clocks at once",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Founding a company while finishing a PhD taught me to hold two clocks at once",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Fabry disease and the lipid that shouldn't be there",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Fabry disease and the lipid that shouldn't be there",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Jornada Malalties Minoritaries and Rare Disease Day EN",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Jornada Malalties Minoritaries and Rare Disease Day EN",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_MWC 2026 and US",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_MWC 2026 and US",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Understanding LSDs Why They Matter",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Understanding LSDs Why They Matter",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Parkinsons Day Science Means Nothing Without People",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Parkinsons Day Science Means Nothing Without People",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Were We Wrong With Parkinsons Disease",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Were We Wrong With Parkinsons Disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Jornada Malalties Minoritaries CA",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Jornada Malalties Minoritaries CA",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Inside Our Monthly Meetings",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Inside Our Monthly Meetings",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Tackling LSDs Current Treatments and Road Ahead",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Tackling LSDs Current Treatments and Road Ahead",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_PhD Celebration Eddie Pradas Gracia",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_PhD Celebration Eddie Pradas Gracia",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_WORLD Symposium Pau Results",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_WORLD Symposium Pau Results",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_GBA CTSD Alpha-Synuclein Axis in PD",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_GBA CTSD Alpha-Synuclein Axis in PD",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_NanoERT Reaches La Vanguardia",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_NanoERT Reaches La Vanguardia",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Understanding Gaucher Disease",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Understanding Gaucher Disease",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_WORLD Symposium Pau Preview",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_WORLD Symposium Pau Preview",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_GBA in Numbers Repeat Version",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_GBA in Numbers Repeat Version",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Prevail Therapeutics",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Prevail Therapeutics",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Sarepta Therapeutics",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Sarepta Therapeutics",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Denali Therapeutics",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Denali Therapeutics",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_Content Pillars_Azafaros",
+      "fromNode": "n_Content Pillars",
+      "toNode": "n_Azafaros",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_Platform Mechanism",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_Platform Mechanism",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_LinkedIn Voice Style Guide",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_LinkedIn Voice Style Guide",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_NanoERT LinkedIn Calendar 2026-2027",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_NanoERT LinkedIn Calendar 2026-2027",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_Sebastian Tanco",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_Sebastian Tanco",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_Pau Sarle",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_Pau Sarle",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_Pablo Castillo",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_Pablo Castillo",
+      "label": "connects_to [EXTRACTED]"
+    },
+    {
+      "id": "e_NanoERT Hub_Mercedes Arrue",
+      "fromNode": "n_NanoERT Hub",
+      "toNode": "n_Mercedes Arrue",
+      "label": "connects_to [EXTRACTED]"
+    }
+  ]
+}

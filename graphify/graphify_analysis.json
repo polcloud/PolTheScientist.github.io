@@ -1,0 +1,307 @@
+{
+  "communities": {
+    "0": [
+      "01_about_me_about_me_hub",
+      "01_about_me_gaps_gap_2_data_science_visibility",
+      "01_about_me_iki_ai_synthesis",
+      "01_about_me_loops_loop_1_science_communication_audience",
+      "01_about_me_passions_audience_empathy_and_connection",
+      "01_about_me_passions_creative_expression",
+      "01_about_me_passions_frontier_scientific_research",
+      "01_about_me_passions_science_communication_and_translation",
+      "01_about_me_skills_data_science_and_python",
+      "01_about_me_skills_multilingual_communication",
+      "01_about_me_skills_scientific_writing_and_literature_synthesis",
+      "01_about_me_strengths_adaptive_resilience",
+      "01_about_me_strengths_self_directed_excellence",
+      "01_about_me_strengths_technical_scientific_breadth",
+      "01_about_me_strengths_visual_science_communication",
+      "01_about_me_talents_creative_rational_integration"
+    ],
+    "1": [
+      "01_about_me_cv_and_timeline",
+      "01_about_me_portfolio_narrative",
+      "01_about_me_skills_preclinical_experimental_design",
+      "01_about_me_strengths_translational_thinking",
+      "02_thesis_lysoip",
+      "02_thesis_nanoctsd",
+      "02_thesis_nanogla",
+      "02_thesis_thesis_hub",
+      "02_thesis_transdifferentiation",
+      "04_viral_content_viral_content_hub",
+      "Pol Rodriguez Carreras Knowledge Graph"
+    ],
+    "2": [
+      "03_nanoert_collaborators_eddie_pradas_gracia",
+      "03_nanoert_collaborators_julia_lorenzo_rivera",
+      "03_nanoert_collaborators_mercedes_arrue",
+      "03_nanoert_collaborators_nerea_ruiz",
+      "03_nanoert_collaborators_pablo_castillo",
+      "03_nanoert_collaborators_pau_sarle",
+      "03_nanoert_collaborators_sebastian_tanco",
+      "03_nanoert_competitors_azafaros",
+      "03_nanoert_competitors_denali_therapeutics",
+      "03_nanoert_competitors_prevail_therapeutics",
+      "03_nanoert_competitors_sarepta_therapeutics",
+      "03_nanoert_nanoert_hub",
+      "03_nanoert_pipeline_gba",
+      "03_nanoert_platform_mechanism",
+      "03_nanoert_platform_mechanism_historical_superseded",
+      "GBA CTSD Alpha-Synuclein Axis in PD",
+      "GBA in Numbers Repeat Version",
+      "Inside Our Monthly Meetings",
+      "Jornada Malalties Minoritaries CA",
+      "Jornada Malalties Minoritaries and Rare Disease Day EN",
+      "MWC 2026 and US",
+      "NanoERT Reaches La Vanguardia",
+      "Parkinsons Day Science Means Nothing Without People",
+      "PhD Celebration Eddie Pradas Gracia",
+      "Tackling LSDs Current Treatments and Road Ahead",
+      "Understanding Gaucher Disease",
+      "Understanding LSDs Why They Matter",
+      "WORLD Symposium Pau Preview",
+      "WORLD Symposium Pau Results",
+      "Were We Wrong With Parkinsons Disease"
+    ],
+    "3": [
+      "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "A Gaucher diagnosis often takes years. Here's why that matters.",
+      "CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "Competitor watch: what Azafaros' Phase 3 timeline tells the field",
+      "Fabry disease and the lipid that shouldn't be there",
+      "Fabry disease hides behind decades of unexplained symptoms",
+      "Founding a company while finishing a PhD taught me to hold two clocks at once",
+      "Gaucher disease: what happens when one enzyme goes missing",
+      "The three problems every IV enzyme therapy has to solve",
+      "What a biopolymer conjugate actually does to an enzyme",
+      "Why 'orphan drug' is not a consolation prize",
+      "Why I chose to spend a PhD on diseases that affect one in fifty thousand"
+    ],
+    "4": [
+      "03_nanoert_content_pillars",
+      "A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "A year of writing about science in public: what actually changed",
+      "Alpha-synuclein doesn't aggregate in a vacuum — the lysosome's role",
+      "Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off",
+      "CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "Hunter syndrome just got its first brain-penetrant approval. What that validates for the field.",
+      "Reducing immune recognition without hiding the enzyme's active site",
+      "Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.",
+      "What Rare Disease Day 2027 told us the community still needs",
+      "What platform biotechs get that single-asset companies don't"
+    ],
+    "5": [
+      "03_nanoert_pipeline_alpha_gal_a",
+      "2026 in review: funding and regulation in lysosomal disease",
+      "Beyond our pipeline: why brain-penetrant enzyme therapy is having a moment",
+      "Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "GBA in numbers: what the data actually shows about Parkinson's risk",
+      "Three months into this content chapter: what I've learned about writing science in public",
+      "WORLD Symposium 2027: what we're watching",
+      "What Alzheimer's research is teaching us about our own target enzyme",
+      "When a Parkinson's diagnosis comes with a GBA mutation",
+      "Why immune recognition is the quiet killer of enzyme therapies"
+    ],
+    "6": [
+      "How we test whether a conjugate is actually more stable",
+      "Huntington's disease is not on our pipeline. Here's why we're still watching it closely.",
+      "One mechanism, many diseases: substrate accumulation across the lysosomal storage disorders",
+      "Translating complex biology for people who've never heard of a lysosome",
+      "What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT",
+      "What happens inside a neuron when GCase stops working",
+      "Why rare disease patient registries matter more than any single trial"
+    ],
+    "7": [
+      "03_nanoert_pipeline_ctsd",
+      "Enzyme replacement therapy works. That's exactly why it needs improving.",
+      "Getting the enzyme where it needs to go",
+      "NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "The GBA-CTSD-alpha-synuclein axis, one year later",
+      "What a week at WORLD Symposium does to how you think about your own research"
+    ],
+    "8": [
+      "Fabry, Gaucher, NCL10: three diseases, one platform logic",
+      "How orphan drug incentives quietly decide where rare disease R&D goes",
+      "One year of building in public: the case for transparent preclinical communication",
+      "One year of content, one platform, one mission: what's next",
+      "What no one tells you about running a spin-off and a PhD at the same time",
+      "What patients have taught us that papers can't"
+    ],
+    "9": [
+      "01_about_me_gaps_gap_1_teaching_as_leadership",
+      "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "01_about_me_strengths_stakeholder_communication",
+      "01_about_me_talents_relational_generosity",
+      "01_about_me_talents_teaching_temperament"
+    ],
+    "10": [
+      "01_about_me_gaps_gap_3_venture_literacy",
+      "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "01_about_me_passions_intellectual_curiosity_and_exploration",
+      "01_about_me_skills_finance_and_market_literacy",
+      "01_about_me_talents_cross_disciplinary_synthesis"
+    ],
+    "11": [
+      "Enzyme replacement therapy at 30: what's changed, what hasn't",
+      "Mid-year pipeline update: where the three programmes stand",
+      "The invisible weight of caregiving in rare disease",
+      "What a positive Huntington's gene therapy readout means beyond Huntington's"
+    ],
+    "12": [
+      "01_about_me_skills_linkedin_content_strategy",
+      "01_about_me_talents_explanatory_writing",
+      "LinkedIn Voice Style Guide"
+    ]
+  },
+  "cohesion": {
+    "0": 0.26666666666666666,
+    "1": 0.23636363636363636,
+    "2": 0.12413793103448276,
+    "3": 0.3181818181818182,
+    "4": 0.34545454545454546,
+    "5": 0.2,
+    "6": 0.2857142857142857,
+    "7": 0.3333333333333333,
+    "8": 0.3333333333333333,
+    "9": 0.4,
+    "10": 0.4,
+    "11": 0.5,
+    "12": 0.6666666666666666
+  },
+  "gods": [
+    {
+      "id": "03_nanoert_nanoert_hub",
+      "label": "NanoERT Hub",
+      "degree": 93
+    },
+    {
+      "id": "03_nanoert_content_pillars",
+      "label": "Content Pillars",
+      "degree": 74
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "label": "NanoERT LinkedIn Calendar 2026-2027",
+      "degree": 55
+    },
+    {
+      "id": "01_about_me_about_me_hub",
+      "label": "About Me Hub",
+      "degree": 35
+    },
+    {
+      "id": "01_about_me_iki_ai_synthesis",
+      "label": "IKI-AI Synthesis",
+      "degree": 26
+    },
+    {
+      "id": "03_nanoert_pipeline_gba",
+      "label": "Pipeline GBA",
+      "degree": 14
+    },
+    {
+      "id": "02_thesis_thesis_hub",
+      "label": "Thesis Hub",
+      "degree": 9
+    },
+    {
+      "id": "03_nanoert_platform_mechanism",
+      "label": "Platform Mechanism",
+      "degree": 8
+    },
+    {
+      "id": "03_nanoert_pipeline_ctsd",
+      "label": "Pipeline CTSD",
+      "degree": 7
+    },
+    {
+      "id": "03_nanoert_pipeline_alpha_gal_a",
+      "label": "Pipeline Alpha-Gal A",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "NanoCTSD",
+      "target": "Pipeline CTSD",
+      "source_files": [
+        "02-Thesis/NanoCTSD.md",
+        "03-NanoERT/Pipeline-CTSD.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "connects_to",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `NanoCTSD` unexpectedly reaches hub `Pipeline CTSD`"
+    },
+    {
+      "source": "NanoGLA",
+      "target": "Pipeline Alpha-Gal A",
+      "source_files": [
+        "02-Thesis/NanoGLA.md",
+        "03-NanoERT/Pipeline-Alpha-Gal-A.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "connects_to",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `NanoGLA` unexpectedly reaches hub `Pipeline Alpha-Gal A`"
+    },
+    {
+      "source": "Pol Rodriguez Carreras Knowledge Graph",
+      "target": "About Me Hub",
+      "source_files": [
+        "00-Index.md",
+        "01-About-Me/About-Me-Hub.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "connects_to",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Pol Rodriguez Carreras Knowledge Graph",
+      "target": "NanoERT Hub",
+      "source_files": [
+        "00-Index.md",
+        "03-NanoERT/NanoERT-Hub.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "connects_to",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "IKI-AI Synthesis",
+      "target": "NanoERT Hub",
+      "source_files": [
+        "01-About-Me/IKI-AI-Synthesis.md",
+        "03-NanoERT/NanoERT-Hub.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "connects_to",
+      "why": "connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `NanoERT Hub` connect `Community 2` to `Community 0`, `Community 1`, `Community 3`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 11`, `Community 12`?",
+      "why": "High betweenness centrality (0.663) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `About Me Hub` connect `Community 0` to `Community 1`, `Community 2`, `Community 9`, `Community 10`, `Community 12`?",
+      "why": "High betweenness centrality (0.243) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Content Pillars` connect `Community 4` to `Community 2`, `Community 3`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 11`, `Community 12`?",
+      "why": "High betweenness centrality (0.137) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Sebastian Tanco`, `Julia Lorenzo Rivera`, `Pablo Castillo` to the rest of the system?",
+      "why": "7 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12413793103448276 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

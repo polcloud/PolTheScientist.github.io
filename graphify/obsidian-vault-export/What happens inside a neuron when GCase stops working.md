@@ -1,0 +1,20 @@
+---
+source_file: "03-NanoERT/Posts-Calendar-2026-2027/W32-What-happens-inside-a-neuron-when-GCase-stops-working.md"
+type: "document"
+community: "Community 2"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_2
+---
+
+# What happens inside a neuron when GCase stops working
+
+## Connections
+- [[Content Pillars]] - `connects_to` [EXTRACTED]
+- [[NanoERT Hub]] - `connects_to` [EXTRACTED]
+- [[NanoERT LinkedIn Calendar 2026-2027]] - `connects_to` [EXTRACTED]
+- [[Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.]] - `connects_to` [EXTRACTED]
+- [[Why rare disease patient registries matter more than any single trial]] - `connects_to` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_2
