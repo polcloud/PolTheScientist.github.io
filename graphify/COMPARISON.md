@@ -52,6 +52,16 @@ source, not a competing version:
   (add `[[Collaborator Name]]` links from the pages describing their
   contributions).
 
+## Independent re-verification
+
+`graph.json` was copied from the native output, so it's worth checking it
+wasn't just trusted blindly: `extract_graph.py` re-implements the
+extraction step from scratch (parses `vault-source/`, resolves every
+`[[wikilink]]`) and reproduces the exact same 126 nodes, 399 edges, the
+same 7 isolated collaborator nodes, and the same god-node ranking down to
+the exact edge counts. See `REEXTRACTION.md` for the full comparison table
+and what it took to get there.
+
 ## Preview
 
 `graph.html` is the native Graphify visualization (vis-network, dark theme,

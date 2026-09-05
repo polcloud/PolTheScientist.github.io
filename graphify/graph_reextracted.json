@@ -1,0 +1,3810 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "00_index",
+      "label": "Pol Rodriguez Carreras Knowledge Graph",
+      "source_file": "00-Index.md",
+      "file_type": "root",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_about_me_hub",
+      "label": "About Me Hub",
+      "source_file": "01-About-Me/About-Me-Hub.md",
+      "file_type": "hub",
+      "community": 1,
+      "degree": 35
+    },
+    {
+      "id": "01_about_me_cv_and_timeline",
+      "label": "CV and Timeline",
+      "source_file": "01-About-Me/CV-and-Timeline.md",
+      "file_type": "reference",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_gaps_gap_1_teaching_as_leadership",
+      "label": "Gap 1 Teaching as Leadership",
+      "source_file": "01-About-Me/Gaps/Gap-1-Teaching-as-Leadership.md",
+      "file_type": "gap",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_gaps_gap_2_data_science_visibility",
+      "label": "Gap 2 Data Science Visibility",
+      "source_file": "01-About-Me/Gaps/Gap-2-Data-Science-Visibility.md",
+      "file_type": "gap",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_gaps_gap_3_venture_literacy",
+      "label": "Gap 3 Venture Literacy",
+      "source_file": "01-About-Me/Gaps/Gap-3-Venture-Literacy.md",
+      "file_type": "gap",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_iki_ai_synthesis",
+      "label": "IKI-AI Synthesis",
+      "source_file": "01-About-Me/IKI-AI-Synthesis.md",
+      "file_type": "synthesis",
+      "community": 1,
+      "degree": 26
+    },
+    {
+      "id": "01_about_me_loops_loop_1_science_communication_audience",
+      "label": "Loop 1 Science Communication Audience",
+      "source_file": "01-About-Me/Loops/Loop-1-Science-Communication-Audience.md",
+      "file_type": "loop",
+      "community": 1,
+      "degree": 5
+    },
+    {
+      "id": "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "label": "Loop 2 Teaching Leadership Trust",
+      "source_file": "01-About-Me/Loops/Loop-2-Teaching-Leadership-Trust.md",
+      "file_type": "loop",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "label": "Loop 3 Systems Thinking Cross-Domain Synthesis",
+      "source_file": "01-About-Me/Loops/Loop-3-Systems-Thinking-Cross-Domain-Synthesis.md",
+      "file_type": "loop",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_passions_audience_empathy_and_connection",
+      "label": "Audience Empathy and Connection",
+      "source_file": "01-About-Me/Passions/Audience-Empathy-and-Connection.md",
+      "file_type": "passion",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_passions_creative_expression",
+      "label": "Creative Expression",
+      "source_file": "01-About-Me/Passions/Creative-Expression.md",
+      "file_type": "passion",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_passions_frontier_scientific_research",
+      "label": "Frontier Scientific Research",
+      "source_file": "01-About-Me/Passions/Frontier-Scientific-Research.md",
+      "file_type": "passion",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_passions_intellectual_curiosity_and_exploration",
+      "label": "Intellectual Curiosity and Exploration",
+      "source_file": "01-About-Me/Passions/Intellectual-Curiosity-and-Exploration.md",
+      "file_type": "passion",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_passions_science_communication_and_translation",
+      "label": "Science Communication and Translation",
+      "source_file": "01-About-Me/Passions/Science-Communication-and-Translation.md",
+      "file_type": "passion",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_portfolio_narrative",
+      "label": "Portfolio Narrative",
+      "source_file": "01-About-Me/Portfolio-Narrative.md",
+      "file_type": "reference",
+      "community": 1,
+      "degree": 6
+    },
+    {
+      "id": "01_about_me_skills_data_science_and_python",
+      "label": "Data Science and Python",
+      "source_file": "01-About-Me/Skills/Data-Science-and-Python.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_skills_finance_and_market_literacy",
+      "label": "Finance and Market Literacy",
+      "source_file": "01-About-Me/Skills/Finance-and-Market-Literacy.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_skills_linkedin_content_strategy",
+      "label": "LinkedIn Content Strategy",
+      "source_file": "01-About-Me/Skills/LinkedIn-Content-Strategy.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_skills_multilingual_communication",
+      "label": "Multilingual Communication",
+      "source_file": "01-About-Me/Skills/Multilingual-Communication.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_skills_preclinical_experimental_design",
+      "label": "Preclinical Experimental Design",
+      "source_file": "01-About-Me/Skills/Preclinical-Experimental-Design.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "01_about_me_skills_scientific_writing_and_literature_synthesis",
+      "label": "Scientific Writing and Literature Synthesis",
+      "source_file": "01-About-Me/Skills/Scientific-Writing-and-Literature-Synthesis.md",
+      "file_type": "skill",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_strengths_adaptive_resilience",
+      "label": "Adaptive Resilience",
+      "source_file": "01-About-Me/Strengths/Adaptive-Resilience.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_strengths_self_directed_excellence",
+      "label": "Self-Directed Excellence",
+      "source_file": "01-About-Me/Strengths/Self-Directed-Excellence.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_strengths_stakeholder_communication",
+      "label": "Stakeholder Communication",
+      "source_file": "01-About-Me/Strengths/Stakeholder-Communication.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_strengths_technical_scientific_breadth",
+      "label": "Technical Scientific Breadth",
+      "source_file": "01-About-Me/Strengths/Technical-Scientific-Breadth.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_strengths_translational_thinking",
+      "label": "Translational Thinking",
+      "source_file": "01-About-Me/Strengths/Translational-Thinking.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 5
+    },
+    {
+      "id": "01_about_me_strengths_visual_science_communication",
+      "label": "Visual Science Communication",
+      "source_file": "01-About-Me/Strengths/Visual-Science-Communication.md",
+      "file_type": "strength",
+      "community": 1,
+      "degree": 2
+    },
+    {
+      "id": "01_about_me_talents_creative_rational_integration",
+      "label": "Creative-Rational Integration",
+      "source_file": "01-About-Me/Talents/Creative-Rational-Integration.md",
+      "file_type": "talent",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_talents_cross_disciplinary_synthesis",
+      "label": "Cross-Disciplinary Synthesis",
+      "source_file": "01-About-Me/Talents/Cross-Disciplinary-Synthesis.md",
+      "file_type": "talent",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_talents_explanatory_writing",
+      "label": "Explanatory Writing",
+      "source_file": "01-About-Me/Talents/Explanatory-Writing.md",
+      "file_type": "talent",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_talents_relational_generosity",
+      "label": "Relational Generosity",
+      "source_file": "01-About-Me/Talents/Relational-Generosity.md",
+      "file_type": "talent",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "01_about_me_talents_teaching_temperament",
+      "label": "Teaching Temperament",
+      "source_file": "01-About-Me/Talents/Teaching-Temperament.md",
+      "file_type": "talent",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "02_thesis_lysoip",
+      "label": "LysoIP",
+      "source_file": "02-Thesis/LysoIP.md",
+      "file_type": "thesis-topic",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "02_thesis_nanoctsd",
+      "label": "NanoCTSD",
+      "source_file": "02-Thesis/NanoCTSD.md",
+      "file_type": "thesis-topic",
+      "community": 5,
+      "degree": 2
+    },
+    {
+      "id": "02_thesis_nanogla",
+      "label": "NanoGLA",
+      "source_file": "02-Thesis/NanoGLA.md",
+      "file_type": "thesis-topic",
+      "community": 4,
+      "degree": 2
+    },
+    {
+      "id": "02_thesis_thesis_hub",
+      "label": "Thesis Hub",
+      "source_file": "02-Thesis/Thesis-Hub.md",
+      "file_type": "hub",
+      "community": 1,
+      "degree": 9
+    },
+    {
+      "id": "02_thesis_transdifferentiation",
+      "label": "Transdifferentiation",
+      "source_file": "02-Thesis/Transdifferentiation.md",
+      "file_type": "thesis-topic",
+      "community": 1,
+      "degree": 3
+    },
+    {
+      "id": "03_nanoert_collaborators_eddie_pradas_gracia",
+      "label": "Eddie Pradas Gracia",
+      "source_file": "03-NanoERT/Collaborators/Eddie-Pradas-Gracia.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_julia_lorenzo_rivera",
+      "label": "Julia Lorenzo Rivera",
+      "source_file": "03-NanoERT/Collaborators/Julia-Lorenzo-Rivera.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_mercedes_arrue",
+      "label": "Mercedes Arrue",
+      "source_file": "03-NanoERT/Collaborators/Mercedes-Arrue.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_nerea_ruiz",
+      "label": "Nerea Ruiz",
+      "source_file": "03-NanoERT/Collaborators/Nerea-Ruiz.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_pablo_castillo",
+      "label": "Pablo Castillo",
+      "source_file": "03-NanoERT/Collaborators/Pablo-Castillo.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_pau_sarle",
+      "label": "Pau Sarle",
+      "source_file": "03-NanoERT/Collaborators/Pau-Sarle.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_collaborators_sebastian_tanco",
+      "label": "Sebastian Tanco",
+      "source_file": "03-NanoERT/Collaborators/Sebastian-Tanco.md",
+      "file_type": "person",
+      "community": 0,
+      "degree": 1
+    },
+    {
+      "id": "03_nanoert_competitors_azafaros",
+      "label": "Azafaros",
+      "source_file": "03-NanoERT/Competitors/Azafaros.md",
+      "file_type": "competitor",
+      "community": 2,
+      "degree": 2
+    },
+    {
+      "id": "03_nanoert_competitors_denali_therapeutics",
+      "label": "Denali Therapeutics",
+      "source_file": "03-NanoERT/Competitors/Denali-Therapeutics.md",
+      "file_type": "competitor",
+      "community": 2,
+      "degree": 2
+    },
+    {
+      "id": "03_nanoert_competitors_prevail_therapeutics",
+      "label": "Prevail Therapeutics",
+      "source_file": "03-NanoERT/Competitors/Prevail-Therapeutics.md",
+      "file_type": "competitor",
+      "community": 2,
+      "degree": 2
+    },
+    {
+      "id": "03_nanoert_competitors_sarepta_therapeutics",
+      "label": "Sarepta Therapeutics",
+      "source_file": "03-NanoERT/Competitors/Sarepta-Therapeutics.md",
+      "file_type": "competitor",
+      "community": 2,
+      "degree": 2
+    },
+    {
+      "id": "03_nanoert_content_pillars",
+      "label": "Content Pillars",
+      "source_file": "03-NanoERT/Content-Pillars.md",
+      "file_type": "reference",
+      "community": 2,
+      "degree": 74
+    },
+    {
+      "id": "03_nanoert_nanoert_hub",
+      "label": "NanoERT Hub",
+      "source_file": "03-NanoERT/NanoERT-Hub.md",
+      "file_type": "hub",
+      "community": 0,
+      "degree": 93
+    },
+    {
+      "id": "03_nanoert_pipeline_alpha_gal_a",
+      "label": "Pipeline Alpha-Gal A",
+      "source_file": "03-NanoERT/Pipeline-Alpha-Gal-A.md",
+      "file_type": "pipeline",
+      "community": 4,
+      "degree": 7
+    },
+    {
+      "id": "03_nanoert_pipeline_ctsd",
+      "label": "Pipeline CTSD",
+      "source_file": "03-NanoERT/Pipeline-CTSD.md",
+      "file_type": "pipeline",
+      "community": 5,
+      "degree": 7
+    },
+    {
+      "id": "03_nanoert_pipeline_gba",
+      "label": "Pipeline GBA",
+      "source_file": "03-NanoERT/Pipeline-GBA.md",
+      "file_type": "pipeline",
+      "community": 2,
+      "degree": 14
+    },
+    {
+      "id": "03_nanoert_platform_mechanism_historical_superseded",
+      "label": "Platform Mechanism Historical Superseded",
+      "source_file": "03-NanoERT/Platform-Mechanism-Historical-Superseded.md",
+      "file_type": "platform",
+      "community": 0,
+      "degree": 3
+    },
+    {
+      "id": "03_nanoert_platform_mechanism",
+      "label": "Platform Mechanism",
+      "source_file": "03-NanoERT/Platform-Mechanism.md",
+      "file_type": "platform",
+      "community": 2,
+      "degree": 8
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "label": "NanoERT LinkedIn Calendar 2026-2027",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md",
+      "file_type": "hub",
+      "community": 0,
+      "degree": 55
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w01_why_i_chose_to_spend_a_phd_on_diseases_that_affect_one_in_fifty_thousand",
+      "label": "Why I chose to spend a PhD on diseases that affect one in fifty thousand",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W01-Why-I-chose-to-spend-a-PhD-on-diseases-that-affect-one-in-fifty-thousand.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "label": "What a biopolymer conjugate actually does to an enzyme",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W02-What-a-biopolymer-conjugate-actually-does-to-an-enzyme.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "label": "Gaucher disease: what happens when one enzyme goes missing",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W03-Gaucher-disease-what-happens-when-one-enzyme-goes-missing.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "label": "A Gaucher diagnosis often takes years. Here's why that matters.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W04-A-Gaucher-diagnosis-often-takes-years-Heres-why-that-matters.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "label": "Fabry disease and the lipid that shouldn't be there",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W05-Fabry-disease-and-the-lipid-that-shouldnt-be-there.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "label": "Why 'orphan drug' is not a consolation prize",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W06-Why-orphan-drug-is-not-a-consolation-prize.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "label": "Founding a company while finishing a PhD taught me to hold two clocks at once",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W07-Founding-a-company-while-finishing-a-PhD-taught-me-to-hold-two-clocks-at-once.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "label": "CTSD: the enzyme linking an ultra-rare disease to a mechanism NanoERT is betting on",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W08-CTSD-the-enzyme-linking-an-ultra-rare-disease-to-a-mechanism-NanoERT-is-betting-on.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "label": "The three problems every IV enzyme therapy has to solve",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W09-The-three-problems-every-IV-enzyme-therapy-has-to-solve.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "label": "Fabry disease hides behind decades of unexplained symptoms",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W10-Fabry-disease-hides-behind-decades-of-unexplained-symptoms.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "label": "Competitor watch: what Azafaros' Phase 3 timeline tells the field",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W11-Competitor-watch-what-Azafaros-Phase-3-timeline-tells-the-field.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "label": "The GBA-CTSD-alpha-synuclein axis, one year later",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 7
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "label": "Enzyme replacement therapy works. That's exactly why it needs improving.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W13-Enzyme-replacement-therapy-works-Thats-exactly-why-it-needs-improving.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "label": "Beyond our pipeline: why brain-penetrant enzyme therapy is having a moment",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W14-Beyond-our-pipeline-why-brain-penetrant-enzyme-therapy-is-having-a-moment.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "label": "Why immune recognition is the quiet killer of enzyme therapies",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W15-Why-immune-recognition-is-the-quiet-killer-of-enzyme-therapies.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "label": "Three months into this content chapter: what I've learned about writing science in public",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W16-Three-months-into-this-content-chapter-what-Ive-learned-about-writing-science-in-public.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "label": "2026 in review: funding and regulation in lysosomal disease",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W17-2026-in-review-funding-and-regulation-in-lysosomal-disease.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "label": "GBA in numbers: what the data actually shows about Parkinson's risk",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W18-GBA-in-numbers-what-the-data-actually-shows-about-Parkinsons-risk.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "label": "When a Parkinson's diagnosis comes with a GBA mutation",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W19-When-a-Parkinsons-diagnosis-comes-with-a-GBA-mutation.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "label": "What Alzheimer's research is teaching us about our own target enzyme",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W20-What-Alzheimers-research-is-teaching-us-about-our-own-target-enzyme.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "label": "WORLD Symposium 2027: what we're watching",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W21-WORLD-Symposium-2027-what-were-watching.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "label": "Fabry disease: why ERT alone doesn't stop the clock on heart and kidney damage",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W22-Fabry-disease-why-ERT-alone-doesnt-stop-the-clock-on-heart-and-kidney-damage.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "label": "What a week at WORLD Symposium does to how you think about your own research",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W23-What-a-week-at-WORLD-Symposium-does-to-how-you-think-about-your-own-research.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "label": "Getting the enzyme where it needs to go",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W24-Getting-the-enzyme-where-it-needs-to-go.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "label": "NCL10 is so rare most doctors will never see a case. That's exactly the problem.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W25-NCL10-is-so-rare-most-doctors-will-never-see-a-case-Thats-exactly-the-problem.md",
+      "file_type": "post",
+      "community": 5,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "label": "Huntington's disease is not on our pipeline. Here's why we're still watching it closely.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W26-Huntingtons-disease-is-not-on-our-pipeline-Heres-why-were-still-watching-it-closely.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "label": "One mechanism, many diseases: substrate accumulation across the lysosomal storage disorders",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W27-One-mechanism-many-diseases-substrate-accumulation-across-the-lysosomal-storage-disorders.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "label": "Translating complex biology for people who've never heard of a lysosome",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W28-Translating-complex-biology-for-people-whove-never-heard-of-a-lysosome.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "label": "What Denali's AVLAYAH approval means for the economics of brain-penetrant ERT",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W29-What-Denalis-AVLAYAH-approval-means-for-the-economics-of-brain-penetrant-ERT.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "label": "How we test whether a conjugate is actually more stable",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W30-How-we-test-whether-a-conjugate-is-actually-more-stable.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "label": "Why rare disease patient registries matter more than any single trial",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W31-Why-rare-disease-patient-registries-matter-more-than-any-single-trial.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "label": "What happens inside a neuron when GCase stops working",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W32-What-happens-inside-a-neuron-when-GCase-stops-working.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "label": "Sanfilippo syndrome still has no approved disease-modifying therapy. Here's why the blood-brain barrier is the reason.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W33-Sanfilippo-syndrome-still-has-no-approved-disease-modifying-therapy-Heres-why-the-blood-brain-barrier-is-the-reason.md",
+      "file_type": "post",
+      "community": 3,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "label": "Being a PhD researcher and a founder at the same time is not a hack, it's a trade-off",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W34-Being-a-PhD-researcher-and-a-founder-at-the-same-time-is-not-a-hack-its-a-trade-off.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "label": "What Rare Disease Day 2027 told us the community still needs",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W35-What-Rare-Disease-Day-2027-told-us-the-community-still-needs.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "label": "Alpha-synuclein doesn't aggregate in a vacuum \u2014 the lysosome's role",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W36-Alpha-synuclein-doesnt-aggregate-in-a-vacuum-the-lysosomes-role.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "label": "Reducing immune recognition without hiding the enzyme's active site",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W37-Reducing-immune-recognition-without-hiding-the-enzymes-active-site.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "label": "A Fabry family's story starts with one diagnosis and a genetic test for everyone else",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W38-A-Fabry-familys-story-starts-with-one-diagnosis-and-a-genetic-test-for-everyone-else.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "label": "Hunter syndrome just got its first brain-penetrant approval. What that validates for the field.",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W39-Hunter-syndrome-just-got-its-first-brain-penetrant-approval-What-that-validates-for-the-field.md",
+      "file_type": "post",
+      "community": 4,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "label": "CTSD again: what Parkinson's, NCL10, and Alzheimer's research keep circling back to",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W40-CTSD-again-what-Parkinsons-NCL10-and-Alzheimers-research-keep-circling-back-to.md",
+      "file_type": "post",
+      "community": 5,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "label": "A year of writing about science in public: what actually changed",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W41-A-year-of-writing-about-science-in-public-what-actually-changed.md",
+      "file_type": "post",
+      "community": 5,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "label": "What platform biotechs get that single-asset companies don't",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W42-What-platform-biotechs-get-that-single-asset-companies-dont.md",
+      "file_type": "post",
+      "community": 5,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "label": "Mid-year pipeline update: where the three programmes stand",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W43-Mid-year-pipeline-update-where-the-three-programmes-stand.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "label": "The invisible weight of caregiving in rare disease",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W44-The-invisible-weight-of-caregiving-in-rare-disease.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "label": "Enzyme replacement therapy at 30: what's changed, what hasn't",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W45-Enzyme-replacement-therapy-at-30-whats-changed-what-hasnt.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "label": "What a positive Huntington's gene therapy readout means beyond Huntington's",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W46-What-a-positive-Huntingtons-gene-therapy-readout-means-beyond-Huntingtons.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "label": "What no one tells you about running a spin-off and a PhD at the same time",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W47-What-no-one-tells-you-about-running-a-spin-off-and-a-PhD-at-the-same-time.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "label": "How orphan drug incentives quietly decide where rare disease R&D goes",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W48-How-orphan-drug-incentives-quietly-decide-where-rare-disease-RD-goes.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "label": "Fabry, Gaucher, NCL10: three diseases, one platform logic",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W49-Fabry-Gaucher-NCL10-three-diseases-one-platform-logic.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "label": "What patients have taught us that papers can't",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W50-What-patients-have-taught-us-that-papers-cant.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "label": "One year of building in public: the case for transparent preclinical communication",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W51-One-year-of-building-in-public-the-case-for-transparent-preclinical-communication.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_calendar_2026_2027_w52_one_year_of_content_one_platform_one_mission_whats_next",
+      "label": "One year of content, one platform, one mission: what's next",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W52-One-year-of-content-one-platform-one-mission-whats-next.md",
+      "file_type": "post",
+      "community": 0,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_01_mwc_2026_and_us",
+      "label": "MWC 2026 and US",
+      "source_file": "03-NanoERT/Posts-Published/01-MWC-2026-and-US.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 3
+    },
+    {
+      "id": "03_nanoert_posts_published_02_jornada_malalties_minoritaries_and_rare_disease_day_en",
+      "label": "Jornada Malalties Minoritaries and Rare Disease Day EN",
+      "source_file": "03-NanoERT/Posts-Published/02-Jornada-Malalties-Minoritaries-and-Rare-Disease-Day-EN.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_03_jornada_malalties_minoritaries_ca",
+      "label": "Jornada Malalties Minoritaries CA",
+      "source_file": "03-NanoERT/Posts-Published/03-Jornada-Malalties-Minoritaries-CA.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "label": "WORLD Symposium Pau Preview",
+      "source_file": "03-NanoERT/Posts-Published/04-WORLD-Symposium-Pau-Preview.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "label": "WORLD Symposium Pau Results",
+      "source_file": "03-NanoERT/Posts-Published/05-WORLD-Symposium-Pau-Results.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_06_understanding_lsds_why_they_matter",
+      "label": "Understanding LSDs Why They Matter",
+      "source_file": "03-NanoERT/Posts-Published/06-Understanding-LSDs-Why-They-Matter.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_07_tackling_lsds_current_treatments_and_road_ahead",
+      "label": "Tackling LSDs Current Treatments and Road Ahead",
+      "source_file": "03-NanoERT/Posts-Published/07-Tackling-LSDs-Current-Treatments-and-Road-Ahead.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "label": "GBA CTSD Alpha-Synuclein Axis in PD",
+      "source_file": "03-NanoERT/Posts-Published/08-GBA-CTSD-Alpha-Synuclein-Axis-in-PD.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "label": "Were We Wrong With Parkinsons Disease",
+      "source_file": "03-NanoERT/Posts-Published/09-Were-We-Wrong-With-Parkinsons-Disease.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "label": "GBA in Numbers Repeat Version",
+      "source_file": "03-NanoERT/Posts-Published/10-GBA-in-Numbers-Repeat-Version.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "label": "Inside Our Monthly Meetings",
+      "source_file": "03-NanoERT/Posts-Published/11-Inside-Our-Monthly-Meetings.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_12_phd_celebration_eddie_pradas_gracia",
+      "label": "PhD Celebration Eddie Pradas Gracia",
+      "source_file": "03-NanoERT/Posts-Published/12-PhD-Celebration-Eddie-Pradas-Gracia.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 4
+    },
+    {
+      "id": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "label": "Parkinsons Day Science Means Nothing Without People",
+      "source_file": "03-NanoERT/Posts-Published/13-Parkinsons-Day-Science-Means-Nothing-Without-People.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 5
+    },
+    {
+      "id": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "label": "Understanding Gaucher Disease",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 6
+    },
+    {
+      "id": "03_nanoert_posts_published_15_nanoert_reaches_la_vanguardia",
+      "label": "NanoERT Reaches La Vanguardia",
+      "source_file": "03-NanoERT/Posts-Published/15-NanoERT-Reaches-La-Vanguardia.md",
+      "file_type": "post",
+      "community": 2,
+      "degree": 3
+    },
+    {
+      "id": "03_nanoert_voice_style_guide",
+      "label": "LinkedIn Voice Style Guide",
+      "source_file": "03-NanoERT/Voice-Style-Guide.md",
+      "file_type": "voice",
+      "community": 1,
+      "degree": 4
+    },
+    {
+      "id": "04_viral_content_viral_content_hub",
+      "label": "Viral Content Hub",
+      "source_file": "04-Viral-Content/Viral-Content-Hub.md",
+      "file_type": "hub",
+      "community": 1,
+      "degree": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "00_index",
+      "target": "01_about_me_about_me_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "00-Index.md"
+    },
+    {
+      "source": "00_index",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "00-Index.md"
+    },
+    {
+      "source": "00_index",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "00-Index.md"
+    },
+    {
+      "source": "00_index",
+      "target": "04_viral_content_viral_content_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "00-Index.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_passions_frontier_scientific_research",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_passions_science_communication_and_translation",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_passions_creative_expression",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_passions_intellectual_curiosity_and_exploration",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_passions_audience_empathy_and_connection",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_talents_explanatory_writing",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_talents_teaching_temperament",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_talents_cross_disciplinary_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_talents_relational_generosity",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_talents_creative_rational_integration",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_translational_thinking",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_technical_scientific_breadth",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_visual_science_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_adaptive_resilience",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_stakeholder_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_strengths_self_directed_excellence",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_data_science_and_python",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_linkedin_content_strategy",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_scientific_writing_and_literature_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_preclinical_experimental_design",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_multilingual_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_skills_finance_and_market_literacy",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_loops_loop_1_science_communication_audience",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_gaps_gap_1_teaching_as_leadership",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_gaps_gap_2_data_science_visibility",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_gaps_gap_3_venture_literacy",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_cv_and_timeline",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "01_about_me_portfolio_narrative",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_about_me_hub",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/About-Me-Hub.md"
+    },
+    {
+      "source": "01_about_me_cv_and_timeline",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/CV-and-Timeline.md"
+    },
+    {
+      "source": "01_about_me_cv_and_timeline",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/CV-and-Timeline.md"
+    },
+    {
+      "source": "01_about_me_gaps_gap_1_teaching_as_leadership",
+      "target": "01_about_me_talents_teaching_temperament",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Gaps/Gap-1-Teaching-as-Leadership.md"
+    },
+    {
+      "source": "01_about_me_gaps_gap_2_data_science_visibility",
+      "target": "01_about_me_skills_data_science_and_python",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Gaps/Gap-2-Data-Science-Visibility.md"
+    },
+    {
+      "source": "01_about_me_gaps_gap_3_venture_literacy",
+      "target": "01_about_me_skills_finance_and_market_literacy",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Gaps/Gap-3-Venture-Literacy.md"
+    },
+    {
+      "source": "01_about_me_iki_ai_synthesis",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/IKI-AI-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_iki_ai_synthesis",
+      "target": "01_about_me_cv_and_timeline",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/IKI-AI-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_iki_ai_synthesis",
+      "target": "01_about_me_portfolio_narrative",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/IKI-AI-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_1_science_communication_audience",
+      "target": "01_about_me_passions_frontier_scientific_research",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-1-Science-Communication-Audience.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_1_science_communication_audience",
+      "target": "01_about_me_talents_creative_rational_integration",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-1-Science-Communication-Audience.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_1_science_communication_audience",
+      "target": "01_about_me_passions_audience_empathy_and_connection",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-1-Science-Communication-Audience.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_1_science_communication_audience",
+      "target": "01_about_me_passions_science_communication_and_translation",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-1-Science-Communication-Audience.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "target": "01_about_me_talents_teaching_temperament",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-2-Teaching-Leadership-Trust.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "target": "01_about_me_strengths_stakeholder_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-2-Teaching-Leadership-Trust.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_2_teaching_leadership_trust",
+      "target": "01_about_me_talents_relational_generosity",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-2-Teaching-Leadership-Trust.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "target": "01_about_me_talents_cross_disciplinary_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-3-Systems-Thinking-Cross-Domain-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "target": "01_about_me_passions_intellectual_curiosity_and_exploration",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-3-Systems-Thinking-Cross-Domain-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_loops_loop_3_systems_thinking_cross_domain_synthesis",
+      "target": "01_about_me_skills_finance_and_market_literacy",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Loops/Loop-3-Systems-Thinking-Cross-Domain-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_passions_audience_empathy_and_connection",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Passions/Audience-Empathy-and-Connection.md"
+    },
+    {
+      "source": "01_about_me_passions_creative_expression",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Passions/Creative-Expression.md"
+    },
+    {
+      "source": "01_about_me_passions_frontier_scientific_research",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Passions/Frontier-Scientific-Research.md"
+    },
+    {
+      "source": "01_about_me_passions_intellectual_curiosity_and_exploration",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Passions/Intellectual-Curiosity-and-Exploration.md"
+    },
+    {
+      "source": "01_about_me_passions_science_communication_and_translation",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Passions/Science-Communication-and-Translation.md"
+    },
+    {
+      "source": "01_about_me_portfolio_narrative",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Portfolio-Narrative.md"
+    },
+    {
+      "source": "01_about_me_portfolio_narrative",
+      "target": "01_about_me_strengths_translational_thinking",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Portfolio-Narrative.md"
+    },
+    {
+      "source": "01_about_me_portfolio_narrative",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Portfolio-Narrative.md"
+    },
+    {
+      "source": "01_about_me_portfolio_narrative",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Portfolio-Narrative.md"
+    },
+    {
+      "source": "01_about_me_skills_data_science_and_python",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/Data-Science-and-Python.md"
+    },
+    {
+      "source": "01_about_me_skills_finance_and_market_literacy",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/Finance-and-Market-Literacy.md"
+    },
+    {
+      "source": "01_about_me_skills_linkedin_content_strategy",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/LinkedIn-Content-Strategy.md"
+    },
+    {
+      "source": "01_about_me_skills_linkedin_content_strategy",
+      "target": "03_nanoert_voice_style_guide",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/LinkedIn-Content-Strategy.md"
+    },
+    {
+      "source": "01_about_me_skills_multilingual_communication",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/Multilingual-Communication.md"
+    },
+    {
+      "source": "01_about_me_skills_preclinical_experimental_design",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/Preclinical-Experimental-Design.md"
+    },
+    {
+      "source": "01_about_me_skills_scientific_writing_and_literature_synthesis",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Skills/Scientific-Writing-and-Literature-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_strengths_adaptive_resilience",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Adaptive-Resilience.md"
+    },
+    {
+      "source": "01_about_me_strengths_self_directed_excellence",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Self-Directed-Excellence.md"
+    },
+    {
+      "source": "01_about_me_strengths_stakeholder_communication",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Stakeholder-Communication.md"
+    },
+    {
+      "source": "01_about_me_strengths_technical_scientific_breadth",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Technical-Scientific-Breadth.md"
+    },
+    {
+      "source": "01_about_me_strengths_translational_thinking",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Translational-Thinking.md"
+    },
+    {
+      "source": "01_about_me_strengths_visual_science_communication",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Strengths/Visual-Science-Communication.md"
+    },
+    {
+      "source": "01_about_me_talents_creative_rational_integration",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Talents/Creative-Rational-Integration.md"
+    },
+    {
+      "source": "01_about_me_talents_cross_disciplinary_synthesis",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Talents/Cross-Disciplinary-Synthesis.md"
+    },
+    {
+      "source": "01_about_me_talents_explanatory_writing",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Talents/Explanatory-Writing.md"
+    },
+    {
+      "source": "01_about_me_talents_relational_generosity",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Talents/Relational-Generosity.md"
+    },
+    {
+      "source": "01_about_me_talents_teaching_temperament",
+      "target": "01_about_me_iki_ai_synthesis",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "01-About-Me/Talents/Teaching-Temperament.md"
+    },
+    {
+      "source": "02_thesis_lysoip",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/LysoIP.md"
+    },
+    {
+      "source": "02_thesis_lysoip",
+      "target": "01_about_me_skills_preclinical_experimental_design",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/LysoIP.md"
+    },
+    {
+      "source": "02_thesis_lysoip",
+      "target": "01_about_me_strengths_translational_thinking",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/LysoIP.md"
+    },
+    {
+      "source": "02_thesis_nanoctsd",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/NanoCTSD.md"
+    },
+    {
+      "source": "02_thesis_nanoctsd",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/NanoCTSD.md"
+    },
+    {
+      "source": "02_thesis_nanogla",
+      "target": "02_thesis_thesis_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/NanoGLA.md"
+    },
+    {
+      "source": "02_thesis_nanogla",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/NanoGLA.md"
+    },
+    {
+      "source": "02_thesis_thesis_hub",
+      "target": "02_thesis_transdifferentiation",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/Thesis-Hub.md"
+    },
+    {
+      "source": "02_thesis_thesis_hub",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/Thesis-Hub.md"
+    },
+    {
+      "source": "02_thesis_transdifferentiation",
+      "target": "01_about_me_skills_preclinical_experimental_design",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/Transdifferentiation.md"
+    },
+    {
+      "source": "02_thesis_transdifferentiation",
+      "target": "01_about_me_strengths_translational_thinking",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "02-Thesis/Transdifferentiation.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_eddie_pradas_gracia",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Eddie-Pradas-Gracia.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_julia_lorenzo_rivera",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Julia-Lorenzo-Rivera.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_mercedes_arrue",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Mercedes-Arrue.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_nerea_ruiz",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Nerea-Ruiz.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_pablo_castillo",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Pablo-Castillo.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_pau_sarle",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Pau-Sarle.md"
+    },
+    {
+      "source": "03_nanoert_collaborators_sebastian_tanco",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Collaborators/Sebastian-Tanco.md"
+    },
+    {
+      "source": "03_nanoert_competitors_azafaros",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Azafaros.md"
+    },
+    {
+      "source": "03_nanoert_competitors_azafaros",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Azafaros.md"
+    },
+    {
+      "source": "03_nanoert_competitors_denali_therapeutics",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Denali-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_competitors_denali_therapeutics",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Denali-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_competitors_prevail_therapeutics",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Prevail-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_competitors_prevail_therapeutics",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Prevail-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_competitors_sarepta_therapeutics",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Sarepta-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_competitors_sarepta_therapeutics",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Competitors/Sarepta-Therapeutics.md"
+    },
+    {
+      "source": "03_nanoert_content_pillars",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Content-Pillars.md"
+    },
+    {
+      "source": "03_nanoert_content_pillars",
+      "target": "03_nanoert_voice_style_guide",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Content-Pillars.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_platform_mechanism_historical_superseded",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_voice_style_guide",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_nanoert_hub",
+      "target": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/NanoERT-Hub.md"
+    },
+    {
+      "source": "03_nanoert_pipeline_alpha_gal_a",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Pipeline-Alpha-Gal-A.md"
+    },
+    {
+      "source": "03_nanoert_pipeline_ctsd",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Pipeline-CTSD.md"
+    },
+    {
+      "source": "03_nanoert_pipeline_gba",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Pipeline-GBA.md"
+    },
+    {
+      "source": "03_nanoert_platform_mechanism_historical_superseded",
+      "target": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Platform-Mechanism-Historical-Superseded.md"
+    },
+    {
+      "source": "03_nanoert_platform_mechanism_historical_superseded",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Platform-Mechanism-Historical-Superseded.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w01_why_i_chose_to_spend_a_phd_on_diseases_that_affect_one_in_fifty_thousand",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_posts_calendar_2026_2027_w52_one_year_of_content_one_platform_one_mission_whats_next",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_nanoert_linkedin_calendar_2026_2027",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/NanoERT-LinkedIn-Calendar-2026-2027.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w01_why_i_chose_to_spend_a_phd_on_diseases_that_affect_one_in_fifty_thousand",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W01-Why-I-chose-to-spend-a-PhD-on-diseases-that-affect-one-in-fifty-thousand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w01_why_i_chose_to_spend_a_phd_on_diseases_that_affect_one_in_fifty_thousand",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W01-Why-I-chose-to-spend-a-PhD-on-diseases-that-affect-one-in-fifty-thousand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w01_why_i_chose_to_spend_a_phd_on_diseases_that_affect_one_in_fifty_thousand",
+      "target": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W01-Why-I-chose-to-spend-a-PhD-on-diseases-that-affect-one-in-fifty-thousand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W02-What-a-biopolymer-conjugate-actually-does-to-an-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W02-What-a-biopolymer-conjugate-actually-does-to-an-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w02_what_a_biopolymer_conjugate_actually_does_to_an_enzyme",
+      "target": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W02-What-a-biopolymer-conjugate-actually-does-to-an-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W03-Gaucher-disease-what-happens-when-one-enzyme-goes-missing.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W03-Gaucher-disease-what-happens-when-one-enzyme-goes-missing.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W03-Gaucher-disease-what-happens-when-one-enzyme-goes-missing.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w03_gaucher_disease_what_happens_when_one_enzyme_goes_missing",
+      "target": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W03-Gaucher-disease-what-happens-when-one-enzyme-goes-missing.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W04-A-Gaucher-diagnosis-often-takes-years-Heres-why-that-matters.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W04-A-Gaucher-diagnosis-often-takes-years-Heres-why-that-matters.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W04-A-Gaucher-diagnosis-often-takes-years-Heres-why-that-matters.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w04_a_gaucher_diagnosis_often_takes_years_heres_why_that_matters",
+      "target": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W04-A-Gaucher-diagnosis-often-takes-years-Heres-why-that-matters.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W05-Fabry-disease-and-the-lipid-that-shouldnt-be-there.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W05-Fabry-disease-and-the-lipid-that-shouldnt-be-there.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W05-Fabry-disease-and-the-lipid-that-shouldnt-be-there.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w05_fabry_disease_and_the_lipid_that_shouldnt_be_there",
+      "target": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W05-Fabry-disease-and-the-lipid-that-shouldnt-be-there.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W06-Why-orphan-drug-is-not-a-consolation-prize.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W06-Why-orphan-drug-is-not-a-consolation-prize.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w06_why_orphan_drug_is_not_a_consolation_prize",
+      "target": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W06-Why-orphan-drug-is-not-a-consolation-prize.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W07-Founding-a-company-while-finishing-a-PhD-taught-me-to-hold-two-clocks-at-once.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W07-Founding-a-company-while-finishing-a-PhD-taught-me-to-hold-two-clocks-at-once.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w07_founding_a_company_while_finishing_a_phd_taught_me_to_hold_two_clocks_at_once",
+      "target": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W07-Founding-a-company-while-finishing-a-PhD-taught-me-to-hold-two-clocks-at-once.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W08-CTSD-the-enzyme-linking-an-ultra-rare-disease-to-a-mechanism-NanoERT-is-betting-on.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W08-CTSD-the-enzyme-linking-an-ultra-rare-disease-to-a-mechanism-NanoERT-is-betting-on.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W08-CTSD-the-enzyme-linking-an-ultra-rare-disease-to-a-mechanism-NanoERT-is-betting-on.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w08_ctsd_the_enzyme_linking_an_ultra_rare_disease_to_a_mechanism_nanoert_is_betting_on",
+      "target": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W08-CTSD-the-enzyme-linking-an-ultra-rare-disease-to-a-mechanism-NanoERT-is-betting-on.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W09-The-three-problems-every-IV-enzyme-therapy-has-to-solve.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W09-The-three-problems-every-IV-enzyme-therapy-has-to-solve.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w09_the_three_problems_every_iv_enzyme_therapy_has_to_solve",
+      "target": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W09-The-three-problems-every-IV-enzyme-therapy-has-to-solve.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W10-Fabry-disease-hides-behind-decades-of-unexplained-symptoms.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W10-Fabry-disease-hides-behind-decades-of-unexplained-symptoms.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W10-Fabry-disease-hides-behind-decades-of-unexplained-symptoms.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w10_fabry_disease_hides_behind_decades_of_unexplained_symptoms",
+      "target": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W10-Fabry-disease-hides-behind-decades-of-unexplained-symptoms.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W11-Competitor-watch-what-Azafaros-Phase-3-timeline-tells-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W11-Competitor-watch-what-Azafaros-Phase-3-timeline-tells-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w11_competitor_watch_what_azafaros_phase_3_timeline_tells_the_field",
+      "target": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W11-Competitor-watch-what-Azafaros-Phase-3-timeline-tells-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w12_the_gba_ctsd_alpha_synuclein_axis_one_year_later",
+      "target": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W12-The-GBA-CTSD-alpha-synuclein-axis-one-year-later.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W13-Enzyme-replacement-therapy-works-Thats-exactly-why-it-needs-improving.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W13-Enzyme-replacement-therapy-works-Thats-exactly-why-it-needs-improving.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w13_enzyme_replacement_therapy_works_thats_exactly_why_it_needs_improving",
+      "target": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W13-Enzyme-replacement-therapy-works-Thats-exactly-why-it-needs-improving.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W14-Beyond-our-pipeline-why-brain-penetrant-enzyme-therapy-is-having-a-moment.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W14-Beyond-our-pipeline-why-brain-penetrant-enzyme-therapy-is-having-a-moment.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w14_beyond_our_pipeline_why_brain_penetrant_enzyme_therapy_is_having_a_moment",
+      "target": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W14-Beyond-our-pipeline-why-brain-penetrant-enzyme-therapy-is-having-a-moment.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W15-Why-immune-recognition-is-the-quiet-killer-of-enzyme-therapies.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W15-Why-immune-recognition-is-the-quiet-killer-of-enzyme-therapies.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w15_why_immune_recognition_is_the_quiet_killer_of_enzyme_therapies",
+      "target": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W15-Why-immune-recognition-is-the-quiet-killer-of-enzyme-therapies.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W16-Three-months-into-this-content-chapter-what-Ive-learned-about-writing-science-in-public.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W16-Three-months-into-this-content-chapter-what-Ive-learned-about-writing-science-in-public.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w16_three_months_into_this_content_chapter_what_ive_learned_about_writing_science_in_public",
+      "target": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W16-Three-months-into-this-content-chapter-what-Ive-learned-about-writing-science-in-public.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W17-2026-in-review-funding-and-regulation-in-lysosomal-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W17-2026-in-review-funding-and-regulation-in-lysosomal-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w17_2026_in_review_funding_and_regulation_in_lysosomal_disease",
+      "target": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W17-2026-in-review-funding-and-regulation-in-lysosomal-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W18-GBA-in-numbers-what-the-data-actually-shows-about-Parkinsons-risk.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W18-GBA-in-numbers-what-the-data-actually-shows-about-Parkinsons-risk.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W18-GBA-in-numbers-what-the-data-actually-shows-about-Parkinsons-risk.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w18_gba_in_numbers_what_the_data_actually_shows_about_parkinsons_risk",
+      "target": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W18-GBA-in-numbers-what-the-data-actually-shows-about-Parkinsons-risk.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W19-When-a-Parkinsons-diagnosis-comes-with-a-GBA-mutation.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W19-When-a-Parkinsons-diagnosis-comes-with-a-GBA-mutation.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W19-When-a-Parkinsons-diagnosis-comes-with-a-GBA-mutation.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w19_when_a_parkinsons_diagnosis_comes_with_a_gba_mutation",
+      "target": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W19-When-a-Parkinsons-diagnosis-comes-with-a-GBA-mutation.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W20-What-Alzheimers-research-is-teaching-us-about-our-own-target-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W20-What-Alzheimers-research-is-teaching-us-about-our-own-target-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w20_what_alzheimers_research_is_teaching_us_about_our_own_target_enzyme",
+      "target": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W20-What-Alzheimers-research-is-teaching-us-about-our-own-target-enzyme.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W21-WORLD-Symposium-2027-what-were-watching.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W21-WORLD-Symposium-2027-what-were-watching.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w21_world_symposium_2027_what_were_watching",
+      "target": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W21-WORLD-Symposium-2027-what-were-watching.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W22-Fabry-disease-why-ERT-alone-doesnt-stop-the-clock-on-heart-and-kidney-damage.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W22-Fabry-disease-why-ERT-alone-doesnt-stop-the-clock-on-heart-and-kidney-damage.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W22-Fabry-disease-why-ERT-alone-doesnt-stop-the-clock-on-heart-and-kidney-damage.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w22_fabry_disease_why_ert_alone_doesnt_stop_the_clock_on_heart_and_kidney_damage",
+      "target": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W22-Fabry-disease-why-ERT-alone-doesnt-stop-the-clock-on-heart-and-kidney-damage.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W23-What-a-week-at-WORLD-Symposium-does-to-how-you-think-about-your-own-research.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W23-What-a-week-at-WORLD-Symposium-does-to-how-you-think-about-your-own-research.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w23_what_a_week_at_world_symposium_does_to_how_you_think_about_your_own_research",
+      "target": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W23-What-a-week-at-WORLD-Symposium-does-to-how-you-think-about-your-own-research.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W24-Getting-the-enzyme-where-it-needs-to-go.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W24-Getting-the-enzyme-where-it-needs-to-go.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w24_getting_the_enzyme_where_it_needs_to_go",
+      "target": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W24-Getting-the-enzyme-where-it-needs-to-go.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W25-NCL10-is-so-rare-most-doctors-will-never-see-a-case-Thats-exactly-the-problem.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W25-NCL10-is-so-rare-most-doctors-will-never-see-a-case-Thats-exactly-the-problem.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W25-NCL10-is-so-rare-most-doctors-will-never-see-a-case-Thats-exactly-the-problem.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w25_ncl10_is_so_rare_most_doctors_will_never_see_a_case_thats_exactly_the_problem",
+      "target": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W25-NCL10-is-so-rare-most-doctors-will-never-see-a-case-Thats-exactly-the-problem.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W26-Huntingtons-disease-is-not-on-our-pipeline-Heres-why-were-still-watching-it-closely.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W26-Huntingtons-disease-is-not-on-our-pipeline-Heres-why-were-still-watching-it-closely.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w26_huntingtons_disease_is_not_on_our_pipeline_heres_why_were_still_watching_it_closely",
+      "target": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W26-Huntingtons-disease-is-not-on-our-pipeline-Heres-why-were-still-watching-it-closely.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W27-One-mechanism-many-diseases-substrate-accumulation-across-the-lysosomal-storage-disorders.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W27-One-mechanism-many-diseases-substrate-accumulation-across-the-lysosomal-storage-disorders.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w27_one_mechanism_many_diseases_substrate_accumulation_across_the_lysosomal_storage_disorders",
+      "target": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W27-One-mechanism-many-diseases-substrate-accumulation-across-the-lysosomal-storage-disorders.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W28-Translating-complex-biology-for-people-whove-never-heard-of-a-lysosome.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W28-Translating-complex-biology-for-people-whove-never-heard-of-a-lysosome.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w28_translating_complex_biology_for_people_whove_never_heard_of_a_lysosome",
+      "target": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W28-Translating-complex-biology-for-people-whove-never-heard-of-a-lysosome.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W29-What-Denalis-AVLAYAH-approval-means-for-the-economics-of-brain-penetrant-ERT.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W29-What-Denalis-AVLAYAH-approval-means-for-the-economics-of-brain-penetrant-ERT.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w29_what_denalis_avlayah_approval_means_for_the_economics_of_brain_penetrant_ert",
+      "target": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W29-What-Denalis-AVLAYAH-approval-means-for-the-economics-of-brain-penetrant-ERT.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W30-How-we-test-whether-a-conjugate-is-actually-more-stable.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W30-How-we-test-whether-a-conjugate-is-actually-more-stable.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w30_how_we_test_whether_a_conjugate_is_actually_more_stable",
+      "target": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W30-How-we-test-whether-a-conjugate-is-actually-more-stable.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W31-Why-rare-disease-patient-registries-matter-more-than-any-single-trial.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W31-Why-rare-disease-patient-registries-matter-more-than-any-single-trial.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w31_why_rare_disease_patient_registries_matter_more_than_any_single_trial",
+      "target": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W31-Why-rare-disease-patient-registries-matter-more-than-any-single-trial.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W32-What-happens-inside-a-neuron-when-GCase-stops-working.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W32-What-happens-inside-a-neuron-when-GCase-stops-working.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w32_what_happens_inside_a_neuron_when_gcase_stops_working",
+      "target": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W32-What-happens-inside-a-neuron-when-GCase-stops-working.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W33-Sanfilippo-syndrome-still-has-no-approved-disease-modifying-therapy-Heres-why-the-blood-brain-barrier-is-the-reason.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W33-Sanfilippo-syndrome-still-has-no-approved-disease-modifying-therapy-Heres-why-the-blood-brain-barrier-is-the-reason.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w33_sanfilippo_syndrome_still_has_no_approved_disease_modifying_therapy_heres_why_the_blood_brain_barrier_is_the_reason",
+      "target": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W33-Sanfilippo-syndrome-still-has-no-approved-disease-modifying-therapy-Heres-why-the-blood-brain-barrier-is-the-reason.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W34-Being-a-PhD-researcher-and-a-founder-at-the-same-time-is-not-a-hack-its-a-trade-off.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W34-Being-a-PhD-researcher-and-a-founder-at-the-same-time-is-not-a-hack-its-a-trade-off.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w34_being_a_phd_researcher_and_a_founder_at_the_same_time_is_not_a_hack_its_a_trade_off",
+      "target": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W34-Being-a-PhD-researcher-and-a-founder-at-the-same-time-is-not-a-hack-its-a-trade-off.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W35-What-Rare-Disease-Day-2027-told-us-the-community-still-needs.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W35-What-Rare-Disease-Day-2027-told-us-the-community-still-needs.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w35_what_rare_disease_day_2027_told_us_the_community_still_needs",
+      "target": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W35-What-Rare-Disease-Day-2027-told-us-the-community-still-needs.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W36-Alpha-synuclein-doesnt-aggregate-in-a-vacuum-the-lysosomes-role.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W36-Alpha-synuclein-doesnt-aggregate-in-a-vacuum-the-lysosomes-role.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w36_alpha_synuclein_doesnt_aggregate_in_a_vacuum_the_lysosomes_role",
+      "target": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W36-Alpha-synuclein-doesnt-aggregate-in-a-vacuum-the-lysosomes-role.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W37-Reducing-immune-recognition-without-hiding-the-enzymes-active-site.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W37-Reducing-immune-recognition-without-hiding-the-enzymes-active-site.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w37_reducing_immune_recognition_without_hiding_the_enzymes_active_site",
+      "target": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W37-Reducing-immune-recognition-without-hiding-the-enzymes-active-site.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W38-A-Fabry-familys-story-starts-with-one-diagnosis-and-a-genetic-test-for-everyone-else.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W38-A-Fabry-familys-story-starts-with-one-diagnosis-and-a-genetic-test-for-everyone-else.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "target": "03_nanoert_pipeline_alpha_gal_a",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W38-A-Fabry-familys-story-starts-with-one-diagnosis-and-a-genetic-test-for-everyone-else.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w38_a_fabry_familys_story_starts_with_one_diagnosis_and_a_genetic_test_for_everyone_else",
+      "target": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W38-A-Fabry-familys-story-starts-with-one-diagnosis-and-a-genetic-test-for-everyone-else.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W39-Hunter-syndrome-just-got-its-first-brain-penetrant-approval-What-that-validates-for-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W39-Hunter-syndrome-just-got-its-first-brain-penetrant-approval-What-that-validates-for-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w39_hunter_syndrome_just_got_its_first_brain_penetrant_approval_what_that_validates_for_the_field",
+      "target": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W39-Hunter-syndrome-just-got-its-first-brain-penetrant-approval-What-that-validates-for-the-field.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W40-CTSD-again-what-Parkinsons-NCL10-and-Alzheimers-research-keep-circling-back-to.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W40-CTSD-again-what-Parkinsons-NCL10-and-Alzheimers-research-keep-circling-back-to.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "target": "03_nanoert_pipeline_ctsd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W40-CTSD-again-what-Parkinsons-NCL10-and-Alzheimers-research-keep-circling-back-to.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w40_ctsd_again_what_parkinsons_ncl10_and_alzheimers_research_keep_circling_back_to",
+      "target": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W40-CTSD-again-what-Parkinsons-NCL10-and-Alzheimers-research-keep-circling-back-to.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W41-A-year-of-writing-about-science-in-public-what-actually-changed.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W41-A-year-of-writing-about-science-in-public-what-actually-changed.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w41_a_year_of_writing_about_science_in_public_what_actually_changed",
+      "target": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W41-A-year-of-writing-about-science-in-public-what-actually-changed.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W42-What-platform-biotechs-get-that-single-asset-companies-dont.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W42-What-platform-biotechs-get-that-single-asset-companies-dont.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w42_what_platform_biotechs_get_that_single_asset_companies_dont",
+      "target": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W42-What-platform-biotechs-get-that-single-asset-companies-dont.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W43-Mid-year-pipeline-update-where-the-three-programmes-stand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W43-Mid-year-pipeline-update-where-the-three-programmes-stand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w43_mid_year_pipeline_update_where_the_three_programmes_stand",
+      "target": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W43-Mid-year-pipeline-update-where-the-three-programmes-stand.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W44-The-invisible-weight-of-caregiving-in-rare-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W44-The-invisible-weight-of-caregiving-in-rare-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w44_the_invisible_weight_of_caregiving_in_rare_disease",
+      "target": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W44-The-invisible-weight-of-caregiving-in-rare-disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W45-Enzyme-replacement-therapy-at-30-whats-changed-what-hasnt.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W45-Enzyme-replacement-therapy-at-30-whats-changed-what-hasnt.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w45_enzyme_replacement_therapy_at_30_whats_changed_what_hasnt",
+      "target": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W45-Enzyme-replacement-therapy-at-30-whats-changed-what-hasnt.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W46-What-a-positive-Huntingtons-gene-therapy-readout-means-beyond-Huntingtons.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W46-What-a-positive-Huntingtons-gene-therapy-readout-means-beyond-Huntingtons.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w46_what_a_positive_huntingtons_gene_therapy_readout_means_beyond_huntingtons",
+      "target": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W46-What-a-positive-Huntingtons-gene-therapy-readout-means-beyond-Huntingtons.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W47-What-no-one-tells-you-about-running-a-spin-off-and-a-PhD-at-the-same-time.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W47-What-no-one-tells-you-about-running-a-spin-off-and-a-PhD-at-the-same-time.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w47_what_no_one_tells_you_about_running_a_spin_off_and_a_phd_at_the_same_time",
+      "target": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W47-What-no-one-tells-you-about-running-a-spin-off-and-a-PhD-at-the-same-time.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W48-How-orphan-drug-incentives-quietly-decide-where-rare-disease-RD-goes.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W48-How-orphan-drug-incentives-quietly-decide-where-rare-disease-RD-goes.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w48_how_orphan_drug_incentives_quietly_decide_where_rare_disease_rd_goes",
+      "target": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W48-How-orphan-drug-incentives-quietly-decide-where-rare-disease-RD-goes.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W49-Fabry-Gaucher-NCL10-three-diseases-one-platform-logic.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W49-Fabry-Gaucher-NCL10-three-diseases-one-platform-logic.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w49_fabry_gaucher_ncl10_three_diseases_one_platform_logic",
+      "target": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W49-Fabry-Gaucher-NCL10-three-diseases-one-platform-logic.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W50-What-patients-have-taught-us-that-papers-cant.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W50-What-patients-have-taught-us-that-papers-cant.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w50_what_patients_have_taught_us_that_papers_cant",
+      "target": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W50-What-patients-have-taught-us-that-papers-cant.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W51-One-year-of-building-in-public-the-case-for-transparent-preclinical-communication.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W51-One-year-of-building-in-public-the-case-for-transparent-preclinical-communication.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w51_one_year_of_building_in_public_the_case_for_transparent_preclinical_communication",
+      "target": "03_nanoert_posts_calendar_2026_2027_w52_one_year_of_content_one_platform_one_mission_whats_next",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W51-One-year-of-building-in-public-the-case-for-transparent-preclinical-communication.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w52_one_year_of_content_one_platform_one_mission_whats_next",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W52-One-year-of-content-one-platform-one-mission-whats-next.md"
+    },
+    {
+      "source": "03_nanoert_posts_calendar_2026_2027_w52_one_year_of_content_one_platform_one_mission_whats_next",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Calendar-2026-2027/W52-One-year-of-content-one-platform-one-mission-whats-next.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_01_mwc_2026_and_us",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/01-MWC-2026-and-US.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_01_mwc_2026_and_us",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/01-MWC-2026-and-US.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_01_mwc_2026_and_us",
+      "target": "03_nanoert_posts_published_02_jornada_malalties_minoritaries_and_rare_disease_day_en",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/01-MWC-2026-and-US.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_02_jornada_malalties_minoritaries_and_rare_disease_day_en",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/02-Jornada-Malalties-Minoritaries-and-Rare-Disease-Day-EN.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_02_jornada_malalties_minoritaries_and_rare_disease_day_en",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/02-Jornada-Malalties-Minoritaries-and-Rare-Disease-Day-EN.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_02_jornada_malalties_minoritaries_and_rare_disease_day_en",
+      "target": "03_nanoert_posts_published_03_jornada_malalties_minoritaries_ca",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/02-Jornada-Malalties-Minoritaries-and-Rare-Disease-Day-EN.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_03_jornada_malalties_minoritaries_ca",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/03-Jornada-Malalties-Minoritaries-CA.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_03_jornada_malalties_minoritaries_ca",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/03-Jornada-Malalties-Minoritaries-CA.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_03_jornada_malalties_minoritaries_ca",
+      "target": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/03-Jornada-Malalties-Minoritaries-CA.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/04-WORLD-Symposium-Pau-Preview.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/04-WORLD-Symposium-Pau-Preview.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/04-WORLD-Symposium-Pau-Preview.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_04_world_symposium_pau_preview",
+      "target": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/04-WORLD-Symposium-Pau-Preview.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/05-WORLD-Symposium-Pau-Results.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/05-WORLD-Symposium-Pau-Results.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/05-WORLD-Symposium-Pau-Results.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_05_world_symposium_pau_results",
+      "target": "03_nanoert_posts_published_06_understanding_lsds_why_they_matter",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/05-WORLD-Symposium-Pau-Results.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_06_understanding_lsds_why_they_matter",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/06-Understanding-LSDs-Why-They-Matter.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_06_understanding_lsds_why_they_matter",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/06-Understanding-LSDs-Why-They-Matter.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_06_understanding_lsds_why_they_matter",
+      "target": "03_nanoert_posts_published_07_tackling_lsds_current_treatments_and_road_ahead",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/06-Understanding-LSDs-Why-They-Matter.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_07_tackling_lsds_current_treatments_and_road_ahead",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/07-Tackling-LSDs-Current-Treatments-and-Road-Ahead.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_07_tackling_lsds_current_treatments_and_road_ahead",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/07-Tackling-LSDs-Current-Treatments-and-Road-Ahead.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_07_tackling_lsds_current_treatments_and_road_ahead",
+      "target": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/07-Tackling-LSDs-Current-Treatments-and-Road-Ahead.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/08-GBA-CTSD-Alpha-Synuclein-Axis-in-PD.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/08-GBA-CTSD-Alpha-Synuclein-Axis-in-PD.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/08-GBA-CTSD-Alpha-Synuclein-Axis-in-PD.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_08_gba_ctsd_alpha_synuclein_axis_in_pd",
+      "target": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/08-GBA-CTSD-Alpha-Synuclein-Axis-in-PD.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/09-Were-We-Wrong-With-Parkinsons-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/09-Were-We-Wrong-With-Parkinsons-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/09-Were-We-Wrong-With-Parkinsons-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_09_were_we_wrong_with_parkinsons_disease",
+      "target": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/09-Were-We-Wrong-With-Parkinsons-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/10-GBA-in-Numbers-Repeat-Version.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/10-GBA-in-Numbers-Repeat-Version.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/10-GBA-in-Numbers-Repeat-Version.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_10_gba_in_numbers_repeat_version",
+      "target": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/10-GBA-in-Numbers-Repeat-Version.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/11-Inside-Our-Monthly-Meetings.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/11-Inside-Our-Monthly-Meetings.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/11-Inside-Our-Monthly-Meetings.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_11_inside_our_monthly_meetings",
+      "target": "03_nanoert_posts_published_12_phd_celebration_eddie_pradas_gracia",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/11-Inside-Our-Monthly-Meetings.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_12_phd_celebration_eddie_pradas_gracia",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/12-PhD-Celebration-Eddie-Pradas-Gracia.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_12_phd_celebration_eddie_pradas_gracia",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/12-PhD-Celebration-Eddie-Pradas-Gracia.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_12_phd_celebration_eddie_pradas_gracia",
+      "target": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/12-PhD-Celebration-Eddie-Pradas-Gracia.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/13-Parkinsons-Day-Science-Means-Nothing-Without-People.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/13-Parkinsons-Day-Science-Means-Nothing-Without-People.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/13-Parkinsons-Day-Science-Means-Nothing-Without-People.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_13_parkinsons_day_science_means_nothing_without_people",
+      "target": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/13-Parkinsons-Day-Science-Means-Nothing-Without-People.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "target": "03_nanoert_platform_mechanism",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "target": "03_nanoert_pipeline_gba",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_14_understanding_gaucher_disease",
+      "target": "03_nanoert_posts_published_15_nanoert_reaches_la_vanguardia",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/14-Understanding-Gaucher-Disease.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_15_nanoert_reaches_la_vanguardia",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/15-NanoERT-Reaches-La-Vanguardia.md"
+    },
+    {
+      "source": "03_nanoert_posts_published_15_nanoert_reaches_la_vanguardia",
+      "target": "03_nanoert_content_pillars",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Posts-Published/15-NanoERT-Reaches-La-Vanguardia.md"
+    },
+    {
+      "source": "03_nanoert_voice_style_guide",
+      "target": "01_about_me_talents_explanatory_writing",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "03-NanoERT/Voice-Style-Guide.md"
+    },
+    {
+      "source": "04_viral_content_viral_content_hub",
+      "target": "01_about_me_about_me_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "04-Viral-Content/Viral-Content-Hub.md"
+    },
+    {
+      "source": "04_viral_content_viral_content_hub",
+      "target": "03_nanoert_nanoert_hub",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "source_file": "04-Viral-Content/Viral-Content-Hub.md"
+    }
+  ]
+}
