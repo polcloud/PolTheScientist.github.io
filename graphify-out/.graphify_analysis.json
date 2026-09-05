@@ -1,0 +1,272 @@
+{
+  "communities": {
+    "0": [
+      "assets_js_jquery_min",
+      "assets_js_jquery_min_de",
+      "assets_js_jquery_min_ft",
+      "assets_js_jquery_min_g",
+      "assets_js_jquery_min_ge",
+      "assets_js_jquery_min_gt",
+      "assets_js_jquery_min_ht",
+      "assets_js_jquery_min_i",
+      "assets_js_jquery_min_it",
+      "assets_js_jquery_min_j",
+      "assets_js_jquery_min_ke",
+      "assets_js_jquery_min_me",
+      "assets_js_jquery_min_o",
+      "assets_js_jquery_min_ot",
+      "assets_js_jquery_min_pe",
+      "assets_js_jquery_min_st",
+      "assets_js_jquery_min_ue",
+      "assets_js_jquery_min_vt",
+      "assets_js_jquery_min_z",
+      "assets_js_jquery_min_ze"
+    ],
+    "1": [
+      "massively_assets_js_jquery_min",
+      "massively_assets_js_jquery_min_de",
+      "massively_assets_js_jquery_min_ft",
+      "massively_assets_js_jquery_min_g",
+      "massively_assets_js_jquery_min_ge",
+      "massively_assets_js_jquery_min_gt",
+      "massively_assets_js_jquery_min_ht",
+      "massively_assets_js_jquery_min_i",
+      "massively_assets_js_jquery_min_it",
+      "massively_assets_js_jquery_min_j",
+      "massively_assets_js_jquery_min_ke",
+      "massively_assets_js_jquery_min_me",
+      "massively_assets_js_jquery_min_o",
+      "massively_assets_js_jquery_min_ot",
+      "massively_assets_js_jquery_min_pe",
+      "massively_assets_js_jquery_min_st",
+      "massively_assets_js_jquery_min_ue",
+      "massively_assets_js_jquery_min_vt",
+      "massively_assets_js_jquery_min_z",
+      "massively_assets_js_jquery_min_ze"
+    ],
+    "2": [
+      "assets_js_jquery_min_be",
+      "assets_js_jquery_min_ce",
+      "assets_js_jquery_min_e",
+      "assets_js_jquery_min_ee",
+      "assets_js_jquery_min_fe",
+      "assets_js_jquery_min_l",
+      "assets_js_jquery_min_m",
+      "assets_js_jquery_min_r",
+      "assets_js_jquery_min_se",
+      "assets_js_jquery_min_t",
+      "assets_js_jquery_min_te",
+      "assets_js_jquery_min_we",
+      "assets_js_jquery_min_wt",
+      "assets_js_jquery_min_wt_l",
+      "assets_js_jquery_scrolly_min",
+      "assets_js_jquery_scrolly_min_u"
+    ],
+    "3": [
+      "massively_assets_js_jquery_min_e",
+      "massively_assets_js_jquery_min_fe",
+      "massively_assets_js_jquery_min_l",
+      "massively_assets_js_jquery_min_m",
+      "massively_assets_js_jquery_min_r",
+      "massively_assets_js_jquery_min_t",
+      "massively_assets_js_jquery_min_wt",
+      "massively_assets_js_jquery_min_wt_l",
+      "massively_assets_js_jquery_scrolly_min",
+      "massively_assets_js_jquery_scrolly_min_u"
+    ],
+    "4": [
+      "assets_js_jquery_min_le",
+      "assets_js_jquery_min_oe",
+      "assets_js_jquery_min_p",
+      "assets_js_jquery_min_ve",
+      "assets_js_jquery_min_w",
+      "assets_js_jquery_min_xe",
+      "assets_js_jquery_min_ye"
+    ],
+    "5": [
+      "massively_assets_js_jquery_min_at",
+      "massively_assets_js_jquery_min_lt",
+      "massively_assets_js_jquery_min_p",
+      "massively_assets_js_jquery_min_u",
+      "massively_assets_js_jquery_min_ut",
+      "massively_assets_js_jquery_min_w",
+      "massively_assets_js_jquery_min_x"
+    ],
+    "6": [
+      "massively_assets_js_jquery_min_be",
+      "massively_assets_js_jquery_min_ee",
+      "massively_assets_js_jquery_min_oe",
+      "massively_assets_js_jquery_min_se",
+      "massively_assets_js_jquery_min_we",
+      "massively_assets_js_jquery_min_xe",
+      "massively_assets_js_jquery_min_ye"
+    ],
+    "7": [
+      "massively_assets_js_jquery_min_a",
+      "massively_assets_js_jquery_min_ce",
+      "massively_assets_js_jquery_min_je",
+      "massively_assets_js_jquery_min_le",
+      "massively_assets_js_jquery_min_te",
+      "massively_assets_js_jquery_min_ve"
+    ],
+    "8": [
+      "assets_js_jquery_min_at",
+      "assets_js_jquery_min_lt",
+      "assets_js_jquery_min_u",
+      "assets_js_jquery_min_ut",
+      "assets_js_jquery_min_x"
+    ],
+    "9": [
+      "assets_js_jquery_min_b",
+      "assets_js_jquery_min_he",
+      "assets_js_jquery_min_qe"
+    ],
+    "10": [
+      "massively_assets_js_jquery_min_b",
+      "massively_assets_js_jquery_min_he",
+      "massively_assets_js_jquery_min_qe"
+    ],
+    "11": [
+      "assets_js_breakpoints_min",
+      "assets_js_breakpoints_min_e"
+    ],
+    "12": [
+      "assets_js_jquery_min_a",
+      "assets_js_jquery_min_je"
+    ],
+    "13": [
+      "assets_js_jquery_scrollex_min",
+      "assets_js_jquery_scrollex_min_e"
+    ],
+    "14": [
+      "massively_assets_js_breakpoints_min",
+      "massively_assets_js_breakpoints_min_e"
+    ],
+    "15": [
+      "massively_assets_js_jquery_scrollex_min",
+      "massively_assets_js_jquery_scrollex_min_e"
+    ],
+    "16": [
+      "assets_js_browser_min"
+    ],
+    "17": [
+      "assets_js_main"
+    ],
+    "18": [
+      "assets_js_util"
+    ],
+    "19": [
+      "massively_assets_js_browser_min"
+    ],
+    "20": [
+      "massively_assets_js_main"
+    ],
+    "21": [
+      "massively_assets_js_util"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1,
+    "1": 0.1,
+    "2": 0.16666666666666666,
+    "3": 0.26666666666666666,
+    "4": 0.3333333333333333,
+    "5": 0.2857142857142857,
+    "6": 0.38095238095238093,
+    "7": 0.3333333333333333,
+    "8": 0.4,
+    "9": 0.6666666666666666,
+    "10": 0.6666666666666666,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0
+  },
+  "gods": [
+    {
+      "id": "assets_js_jquery_min_xe",
+      "label": "xe()",
+      "degree": 7
+    },
+    {
+      "id": "assets_js_jquery_min_l",
+      "label": "l()",
+      "degree": 7
+    },
+    {
+      "id": "assets_js_jquery_min_e",
+      "label": "e()",
+      "degree": 7
+    },
+    {
+      "id": "massively_assets_js_jquery_min_xe",
+      "label": "xe()",
+      "degree": 7
+    },
+    {
+      "id": "massively_assets_js_jquery_min_l",
+      "label": "l()",
+      "degree": 7
+    },
+    {
+      "id": "massively_assets_js_jquery_min_e",
+      "label": "e()",
+      "degree": 7
+    },
+    {
+      "id": "assets_js_jquery_min_se",
+      "label": "se()",
+      "degree": 6
+    },
+    {
+      "id": "assets_js_jquery_min_ve",
+      "label": "ve()",
+      "degree": 6
+    },
+    {
+      "id": "massively_assets_js_jquery_min_se",
+      "label": "se()",
+      "degree": 6
+    },
+    {
+      "id": "massively_assets_js_jquery_min_ve",
+      "label": "ve()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "e()",
+      "target": "u()",
+      "source_files": [
+        "assets/js/jquery.min.js",
+        "assets/js/jquery.scrolly.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `u()` unexpectedly reaches hub `e()`"
+    },
+    {
+      "source": "e()",
+      "target": "u()",
+      "source_files": [
+        "massively/assets/js/jquery.min.js",
+        "massively/assets/js/jquery.scrolly.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `u()` unexpectedly reaches hub `e()`"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
