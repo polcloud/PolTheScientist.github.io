@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "omni-video-agent": {
+      "command": "python3",
+      "args": [
+        "/home/user/PolTheScientist.github.io/.claude/skills/omni-video/mcp/server.py"
+      ],
+      "env": {
+        "GEMINI_OMNI_MODEL": "gemini-omni-flash-preview"
+      }
+    }
+  }
+}
